@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Setup for character encoding and responsive layout -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fantasy Football Manager</title>
+
+    <!-- Link to Bootstrap CSS for easy styling and layout -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this page -->
+    <style>
+        .navbar {
+            background-color: #b2d6f1;
+        }
+
+        .navbar-brand {
+            font-weight: bold;
+            font-size: 1.5rem;
+        }
+
+        .navbar-nav .nav-link {
+            color: #ffffff;
+            background-color: #7a42f4;
+            margin-right: 10px;
+            border-radius: 5px;
+        }
+
+        .navbar-nav .nav-link:hover {
+            background-color: #5a2fbd;
+        }
+
+        .section-title {
+            font-weight: bold;
+        }
+
+        .footer {
+            background-color: #7a42f4;
+            color: #ffffff;
+            padding: 10px 0;
+            text-align: center;
+        }
+
+        .placeholder {
+            background-color: #e0f7ff;
+            padding: 20px;
+            text-align: center;
+            font-size: 1.2rem;
+        }
+
+        .placeholder img {
+            width: 100px;
+            height: auto;
+        }
+
+        .news-section {
+            background-color: #d0f0c0;
+            padding: 20px;
+            margin-top: 20px;
+        }
+
+        .news-section img {
+            width: 100%;
+            height: auto;
+        }
+
+        .mt-4 {
+            margin-top: 1.5rem !important;
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- Navigation Bar -->
+    <nav class="navbar navbar-expand-lg">
+        <div class="container">
+            <a class="navbar-brand" href="/">Fantasy Football Manager</a>
+
+            <div class="collapse navbar-collapse">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/">Draft Team</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/predictions">Predictions</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/liveScores">Live Scores</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Weekly Points</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Username</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <div class="container mt-4">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="placeholder">
+                    <img src="placeholder.png" alt="Draft your team">
+                    <p>Draft your team</p>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="placeholder">
+                    <img src="placeholder.png" alt="Create and Join Leagues">
+                    <p>Create and Join Leagues</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- News Section -->
+        <div class="news-section mt-4">
+            <h3 class="section-title">Latest News</h3>
+            <div class="row">
+                <div class="col-md-6">
+                    <img src="placeholder.png" alt="News Image">
+                </div>
+                <div class="col-md-6">
+                    <h5>News Headline</h5>
+                    <p>Exciting updates on the Premier League fixtures and predictions!</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <div class="footer mt-4">
+        <p>Premier League | Fantasy | Community | About | Stats | More</p>
+    </div>
+
+    <!-- Link to Bootstrap JavaScript -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>
