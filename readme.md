@@ -4,3 +4,4 @@ pip install pandas
 pip install scikit-learn
 pip install lightgbm
 pip install flask
+pip install requests

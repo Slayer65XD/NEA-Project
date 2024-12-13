@@ -56,7 +56,7 @@ def predictionsPage():
     predictions = {}
 
     # Load data from CSV
-    with open('Prediction Model/PredictedResults25.csv', 'r') as csvFile:
+    with open('data/PredictedResults25.csv', 'r') as csvFile:
         csvReader = csv.DictReader(csvFile)
         for row in csvReader:
             roundNumber = int(row['round_number'])
