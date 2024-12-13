@@ -1,3 +1,6 @@
+import os
+os.environ["LOKY_MAX_CPU_COUNT"] = '1'
+
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
@@ -5,16 +8,16 @@ import lightgbm as lgb
 from sklearn.metrics import accuracy_score
 
 # Load data from the Premier League seasons 2014/15 to 2023/24
-filePath15 = 'Prediction Model\PremSeasons\PremierLeague15.csv'
-filePath16 = 'Prediction Model\PremSeasons\PremierLeague16.csv'
-filePath17 = 'Prediction Model\PremSeasons\PremierLeague17.csv'
-filePath18 = 'Prediction Model\PremSeasons\PremierLeague18.csv'
-filePath19 = 'Prediction Model\PremSeasons\PremierLeague19.csv'
-filePath20 = 'Prediction Model\PremSeasons\PremierLeague20.csv'
-filePath21 = 'Prediction Model\PremSeasons\PremierLeague21.csv'
-filePath22 = 'Prediction Model\PremSeasons\PremierLeague22.csv'
-filePath23 = 'Prediction Model\PremSeasons\PremierLeague23.csv'
-filePath24 = 'Prediction Model\PremSeasons\PremierLeague24.csv'
+filePath15 = 'data\PremierLeague15.csv'
+filePath16 = 'data\PremierLeague16.csv'
+filePath17 = 'data\PremierLeague17.csv'
+filePath18 = 'data\PremierLeague18.csv'
+filePath19 = 'data\PremierLeague19.csv'
+filePath20 = 'data\PremierLeague20.csv'
+filePath21 = 'data\PremierLeague21.csv'
+filePath22 = 'data\PremierLeague22.csv'
+filePath23 = 'data\PremierLeague23.csv'
+filePath24 = 'data\PremierLeague24.csv'
 
 # 23/24 Data sourced from Kaggle and 14/15 to 22/23 Data sourced from ChatGPT formatted in the same way as the Kaggle csv file.
 data15 = pd.read_csv(filePath15)
@@ -46,7 +49,7 @@ data['result'] = data.apply(determineResult, axis=1)
 le = LabelEncoder()
 
 # Load 2024/25 fixtures
-fixturesPath = 'Prediction Model/PremierLeagueFixtures25.csv'
+fixturesPath = 'data\PremierLeagueFixtures25.csv'
 fixtures = pd.read_csv(fixturesPath)
 
 # Combine historical teams with current fixtures to include all possible teams
@@ -96,7 +99,7 @@ fixtures['awayTeamEncoded'] = le.transform(fixtures['away_team_name'])
 fixtures['predictedResult'] = model.predict(fixtures[['homeTeamEncoded', 'awayTeamEncoded']])
 
 # Save predictions to a new CSV file
-outputPath = 'Prediction Model/PredictedResults25.csv'
+outputPath = 'data/PredictedResults25.csv'
 fixtures[['round_number', 'home_team_name', 'away_team_name', 'predictedResult']].to_csv(outputPath, index=False)
 print('Predictions saved to:', outputPath)
 
