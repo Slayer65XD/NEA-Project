@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Premier League 2024/25</title>
+    <title>Premier League 2024/25 Match Results</title>
 
     <!-- Link to Bootstrap CSS for easy styling and layout -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -72,55 +72,28 @@
 
     <!-- Prediction Page Content -->
     <div class="container mt-4">
-
-        <h1>
-            Prediction accuracy:
-        </h1>
-        <h2>
-            {{ correct }} / {{ complete }} = {{ accuracy }}%
-        </h2>
+        <h1 class="text-center">Premier League 2024/25 Match Results</h1>
+        
+        <!-- Key Section -->
+        <p class="text-center key">Key: 
+            <span class="badge bg-success">Home Win</span> 
+            <span class="badge bg-danger">Away Win</span> 
+            <span class="badge bg-warning">Draw</span>
+        </p>
 
         <!-- Results Table -->
-        <div style="display: flex; gap: 50px;">
-
-            <table>
-                <tr>
-                    <th>Prediction</th>
-                </tr>
-                <tr>
-                    <th>Team</th>
-                    <th>Points</th>
-                </tr>
-                {% for name, points in predictionsTable.items() %}
-                <tr>
-                    <th>
-                        {{ name }}
-                    </th>
-                    <td style="text-align: right;">{{ points }}</td>
-                </tr>
-                {% endfor %}
-            </table>
-
-            <table>
-                <tr>
-                    <th>Current</th>
-                </tr>
-                <tr>
-                    <th>Team</th>
-                    <th>Points</th>
-                </tr>
-                {% for name, team in table.items() %}
-                <tr>
-                    <th>
-                        <img src="{{team.data.crest}}" height="18px">
-                        {{ name }}
-                    </th>
-                    <td style="text-align: right;">{{ team.points }}</td>
-                </tr>
-                {% endfor %}
-            </table>
-
-        </div>
+        <table>
+            <h4>Team &emsp;&emsp; Points</h4>
+            {% for name, team in table.items() %}
+            <tr>
+                <th>
+                    <img src="{{team.data.crest}}" height="18px">
+                    {{ name }}
+                </th>
+                <td>{{ team.points }}</td>
+            </tr>
+            {% endfor %}
+        </table>
 
         <!-- Matches List -->
         {% for matchday in matchdays %}
@@ -130,11 +103,8 @@
                     {% for match in results[matchday] %}
                         <li>
                             {{ match.homeTeam }} vs {{ match.awayTeam }} - 
-                            <span class="badge {% if match.prediction == 'Home Win' %}bg-success{% elif match.prediction == 'Away Win' %}bg-danger{% else %}bg-warning{% endif %}">
-                                Predicted: {{ match.prediction | capitalize }}
-                            </span>
-                            <span class="badge {% if match.result == 'Home Win' %}bg-success{% elif match.result == 'Away Win' %}bg-danger{% else %}bg-warning{% endif %}">
-                                Actual: {{ match.result | capitalize }}
+                            <span class="badge {% if match.result == 'Home Win' %}bg-success{% elif match.result == 'Away Win' %}bg-danger{% elif match.result == 'Draw' %}bg-warning{% endif %}">
+                                {{ match.result | capitalize }}
                             </span>
                         </li>
                     {% endfor %}
