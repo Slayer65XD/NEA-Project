@@ -1,381 +1,381 @@
 round_number,league_name,name,starting_at,home_team_name,away_team_name,home_team_goals,away_team_goals
-1,Premier League,Fulham vs Arsenal,9/12/2020,Fulham,Arsenal,0,3
-1,Premier League,Crystal Palace vs Southampton,9/12/2020,Crystal Palace,Southampton,1,0
-1,Premier League,Liverpool vs Leeds United,9/12/2020,Liverpool,Leeds United,4,3
-1,Premier League,West Ham United vs Newcastle United,9/12/2020,West Ham United,Newcastle United,0,2
-1,Premier League,West Bromwich Albion vs Leicester City,9/13/2020,West Bromwich Albion,Leicester City,0,3
-1,Premier League,Tottenham Hotspur vs Everton,9/13/2020,Tottenham Hotspur,Everton,0,1
-1,Premier League,Sheffield United vs Wolverhampton Wanderers,9/14/2020,Sheffield United,Wolverhampton Wanderers,0,2
-1,Premier League,Brighton & Hove Albion vs Chelsea,9/14/2020,Brighton & Hove Albion,Chelsea,1,3
-1,Premier League,Burnley vs Aston Villa,9/12/2020,Burnley,Aston Villa,1,0
-1,Premier League,Manchester City vs Manchester United,9/12/2020,Manchester City,Manchester United,1,2
-2,Premier League,Everton vs West Bromwich Albion,9/19/2020,Everton,West Bromwich Albion,5,2
-2,Premier League,Leeds United vs Fulham,9/19/2020,Leeds United,Fulham,4,3
-2,Premier League,Manchester United vs Crystal Palace,9/19/2020,Manchester United,Crystal Palace,1,3
-2,Premier League,Arsenal vs West Ham United,9/19/2020,Arsenal,West Ham United,2,1
-2,Premier League,Southampton vs Tottenham Hotspur,9/20/2020,Southampton,Tottenham Hotspur,2,5
-2,Premier League,Newcastle United vs Brighton & Hove Albion,9/20/2020,Newcastle United,Brighton & Hove Albion,0,3
-2,Premier League,Chelsea vs Liverpool,9/20/2020,Chelsea,Liverpool,0,2
-2,Premier League,Leicester City vs Burnley,9/21/2020,Leicester City,Burnley,4,2
-2,Premier League,Fulham vs Aston Villa,9/21/2020,Fulham,Aston Villa,1,2
-2,Premier League,Sheffield United vs West Ham United,9/21/2020,Sheffield United,West Ham United,0,1
-3,Premier League,Brighton & Hove Albion vs Manchester United,9/26/2020,Brighton & Hove Albion,Manchester United,2,3
-3,Premier League,Crystal Palace vs Everton,9/26/2020,Crystal Palace,Everton,1,2
-3,Premier League,West Bromwich Albion vs Chelsea,9/26/2020,West Bromwich Albion,Chelsea,3,3
-3,Premier League,Burnley vs Southampton,9/27/2020,Burnley,Southampton,0,1
-3,Premier League,Tottenham Hotspur vs Newcastle United,9/27/2020,Tottenham Hotspur,Newcastle United,1,1
-3,Premier League,Manchester City vs Leicester City,9/27/2020,Manchester City,Leicester City,2,5
-3,Premier League,Sheffield United vs Leeds United,9/27/2020,Sheffield United,Leeds United,0,1
-3,Premier League,West Ham United vs Wolverhampton Wanderers,9/27/2020,West Ham United,Wolverhampton Wanderers,4,0
-3,Premier League,Liverpool vs Arsenal,9/28/2020,Liverpool,Arsenal,3,1
-3,Premier League,Fulham vs Aston Villa,9/28/2020,Fulham,Aston Villa,0,3
-4,Premier League,Chelsea vs Crystal Palace,10/3/2020,Chelsea,Crystal Palace,4,0
-4,Premier League,Everton vs Brighton & Hove Albion,10/3/2020,Everton,Brighton & Hove Albion,4,2
-4,Premier League,Leeds United vs Manchester City,10/3/2020,Leeds United,Manchester City,1,1
-4,Premier League,Newcastle United vs Burnley,10/3/2020,Newcastle United,Burnley,3,1
-4,Premier League,Leicester City vs West Ham United,10/4/2020,Leicester City,West Ham United,0,3
-4,Premier League,Southampton vs West Bromwich Albion,10/4/2020,Southampton,West Bromwich Albion,2,0
-4,Premier League,Arsenal vs Sheffield United,10/4/2020,Arsenal,Sheffield United,2,1
-4,Premier League,Wolverhampton Wanderers vs Fulham,10/4/2020,Wolverhampton Wanderers,Fulham,1,0
-4,Premier League,Manchester United vs Tottenham Hotspur,10/4/2020,Manchester United,Tottenham Hotspur,1,6
-4,Premier League,Aston Villa vs Liverpool,10/4/2020,Aston Villa,Liverpool,7,2
-5,Premier League,Everton vs Liverpool,10/17/2020,Everton,Liverpool,2,2
-5,Premier League,Chelsea vs Southampton,10/17/2020,Chelsea,Southampton,3,3
-5,Premier League,Manchester City vs Arsenal,10/17/2020,Manchester City,Arsenal,1,0
-5,Premier League,Newcastle United vs Manchester United,10/17/2020,Newcastle United,Manchester United,1,4
-5,Premier League,Sheffield United vs Fulham,10/18/2020,Sheffield United,Fulham,1,1
-5,Premier League,Crystal Palace vs Brighton & Hove Albion,10/18/2020,Crystal Palace,Brighton & Hove Albion,1,1
-5,Premier League,Tottenham Hotspur vs West Ham United,10/18/2020,Tottenham Hotspur,West Ham United,3,3
-5,Premier League,Leicester City vs Aston Villa,10/18/2020,Leicester City,Aston Villa,0,1
-5,Premier League,West Bromwich Albion vs Burnley,10/19/2020,West Bromwich Albion,Burnley,0,0
-5,Premier League,Leeds United vs Wolverhampton Wanderers,10/19/2020,Leeds United,Wolverhampton Wanderers,0,1
-6,Premier League,West Ham United vs Manchester City,10/24/2020,West Ham United,Manchester City,1,1
-6,Premier League,Fulham vs Crystal Palace,10/24/2020,Fulham,Crystal Palace,1,2
-6,Premier League,Manchester United vs Chelsea,10/24/2020,Manchester United,Chelsea,0,0
-6,Premier League,Liverpool vs Sheffield United,10/24/2020,Liverpool,Sheffield United,2,1
-6,Premier League,Southampton vs Everton,10/25/2020,Southampton,Everton,2,0
-6,Premier League,Wolverhampton Wanderers vs Newcastle United,10/25/2020,Wolverhampton Wanderers,Newcastle United,1,1
-6,Premier League,Arsenal vs Leicester City,10/25/2020,Arsenal,Leicester City,0,1
-6,Premier League,Brighton & Hove Albion vs West Bromwich Albion,10/26/2020,Brighton & Hove Albion,West Bromwich Albion,1,1
-6,Premier League,Burnley vs Tottenham Hotspur,10/26/2020,Burnley,Tottenham Hotspur,0,1
-6,Premier League,Aston Villa vs Leeds United,10/23/2020,Aston Villa,Leeds United,0,3
-7,Premier League,Wolverhampton Wanderers vs Crystal Palace,10/30/2020,Wolverhampton Wanderers,Crystal Palace,2,0
-7,Premier League,Sheffield United vs Manchester City,10/31/2020,Sheffield United,Manchester City,0,1
-7,Premier League,Burnley vs Chelsea,10/31/2020,Burnley,Chelsea,0,3
-7,Premier League,Liverpool vs West Ham United,10/31/2020,Liverpool,West Ham United,2,1
-7,Premier League,Aston Villa vs Southampton,11/1/2020,Aston Villa,Southampton,3,4
-7,Premier League,Newcastle United vs Everton,11/1/2020,Newcastle United,Everton,2,1
-7,Premier League,Manchester United vs Arsenal,11/1/2020,Manchester United,Arsenal,0,1
-7,Premier League,Tottenham Hotspur vs Brighton & Hove Albion,11/1/2020,Tottenham Hotspur,Brighton & Hove Albion,2,1
-7,Premier League,Fulham vs West Bromwich Albion,11/2/2020,Fulham,West Bromwich Albion,2,0
-7,Premier League,Leeds United vs Leicester City,11/2/2020,Leeds United,Leicester City,1,4
-8,Premier League,Brighton & Hove Albion vs Burnley,11/6/2020,Brighton & Hove Albion,Burnley,0,0
-8,Premier League,Southampton vs Newcastle United,11/6/2020,Southampton,Newcastle United,2,0
-8,Premier League,Everton vs Manchester United,11/7/2020,Everton,Manchester United,1,3
-8,Premier League,Crystal Palace vs Leeds United,11/7/2020,Crystal Palace,Leeds United,4,1
-8,Premier League,Chelsea vs Sheffield United,11/7/2020,Chelsea,Sheffield United,4,1
-8,Premier League,West Ham United vs Fulham,11/7/2020,West Ham United,Fulham,1,0
-8,Premier League,West Bromwich Albion vs Tottenham Hotspur,11/8/2020,West Bromwich Albion,Tottenham Hotspur,0,1
-8,Premier League,Leicester City vs Wolverhampton Wanderers,11/8/2020,Leicester City,Wolverhampton Wanderers,1,0
-8,Premier League,Manchester City vs Liverpool,11/8/2020,Manchester City,Liverpool,1,1
-8,Premier League,Arsenal vs Aston Villa,11/8/2020,Arsenal,Aston Villa,0,3
-9,Premier League,Newcastle United vs Chelsea,11/21/2020,Newcastle United,Chelsea,0,2
-9,Premier League,Aston Villa vs Brighton & Hove Albion,11/21/2020,Aston Villa,Brighton & Hove Albion,1,2
-9,Premier League,Tottenham Hotspur vs Manchester City,11/21/2020,Tottenham Hotspur,Manchester City,2,0
-9,Premier League,Manchester United vs West Bromwich Albion,11/21/2020,Manchester United,West Bromwich Albion,1,0
-9,Premier League,Fulham vs Everton,11/22/2020,Fulham,Everton,2,3
-9,Premier League,Sheffield United vs West Ham United,11/22/2020,Sheffield United,West Ham United,0,1
-9,Premier League,Leeds United vs Arsenal,11/22/2020,Leeds United,Arsenal,0,0
-9,Premier League,Liverpool vs Leicester City,11/22/2020,Liverpool,Leicester City,3,0
-9,Premier League,Burnley vs Crystal Palace,11/23/2020,Burnley,Crystal Palace,1,0
-9,Premier League,Wolverhampton Wanderers vs Southampton,11/23/2020,Wolverhampton Wanderers,Southampton,1,1
-10,Premier League,Manchester City vs Burnley,12/3/2020,Manchester City,Burnley,5,0
-10,Premier League,Southampton vs Sheffield United,12/4/2020,Southampton,Sheffield United,3,0
-10,Premier League,Everton vs Leeds United,12/5/2020,Everton,Leeds United,1,0
-10,Premier League,Leicester City vs Fulham,12/5/2020,Leicester City,Fulham,2,1
-10,Premier League,West Bromwich Albion vs Crystal Palace,12/5/2020,West Bromwich Albion,Crystal Palace,1,1
-10,Premier League,Arsenal vs Southampton,12/6/2020,Arsenal,Southampton,1,1
-10,Premier League,Chelsea vs Leeds United,12/5/2020,Chelsea,Leeds United,3,1
-10,Premier League,Tottenham Hotspur vs Arsenal,12/6/2020,Tottenham Hotspur,Arsenal,2,0
-10,Premier League,West Ham United vs Manchester United,12/5/2020,West Ham United,Manchester United,1,3
-10,Premier League,Fulham vs Brighton & Hove Albion,12/5/2020,Fulham,Brighton & Hove Albion,0,0
-11,Premier League,Leeds United vs West Ham United,12/11/2020,Leeds United,West Ham United,1,2
-11,Premier League,Aston Villa vs Wolverhampton Wanderers,12/12/2020,Aston Villa,Wolverhampton Wanderers,0,1
-11,Premier League,Southampton vs Manchester City,12/19/2020,Southampton,Manchester City,0,1
-11,Premier League,Sheffield United vs Brighton & Hove Albion,12/19/2020,Sheffield United,Brighton & Hove Albion,1,1
-11,Premier League,Liverpool vs Tottenham Hotspur,12/16/2020,Liverpool,Tottenham Hotspur,2,1
-11,Premier League,West Bromwich Albion vs Leeds United,12/14/2020,West Bromwich Albion,Leeds United,0,5
-11,Premier League,Chelsea vs Aston Villa,12/21/2020,Chelsea,Aston Villa,1,1
-11,Premier League,Manchester United vs Leeds United,12/20/2020,Manchester United,Leeds United,6,2
-11,Premier League,Crystal Palace vs Sheffield United,12/20/2020,Crystal Palace,Sheffield United,1,0
-11,Premier League,Fulham vs Tottenham Hotspur,12/19/2020,Fulham,Tottenham Hotspur,1,1
-12,Premier League,Everton vs Chelsea,12/12/2020,Everton,Chelsea,0,1
-12,Premier League,Manchester City vs Manchester United,12/12/2020,Manchester City,Manchester United,0,0
-12,Premier League,Leicester City vs West Bromwich Albion,12/13/2020,Leicester City,West Bromwich Albion,3,0
-12,Premier League,Southampton vs Arsenal,12/13/2020,Southampton,Arsenal,1,1
-12,Premier League,Brighton & Hove Albion vs Sheffield United,12/13/2020,Brighton & Hove Albion,Sheffield United,1,1
-12,Premier League,Wolverhampton Wanderers vs Aston Villa,12/12/2020,Wolverhampton Wanderers,Aston Villa,0,1
-12,Premier League,West Ham United vs Leicester City,12/13/2020,West Ham United,Leicester City,0,3
-12,Premier League,Burnley vs Tottenham Hotspur,12/14/2020,Burnley,Tottenham Hotspur,0,1
-12,Premier League,Fulham vs Liverpool,12/13/2020,Fulham,Liverpool,1,1
-12,Premier League,Arsenal vs Burnley,12/13/2020,Arsenal,Burnley,1,0
-13,Premier League,West Bromwich Albion vs Aston Villa,12/20/2020,West Bromwich Albion,Aston Villa,0,3
-13,Premier League,Southampton vs Manchester City,12/19/2020,Southampton,Manchester City,0,1
-13,Premier League,Sheffield United vs Chelsea,12/20/2020,Sheffield United,Chelsea,1,2
-13,Premier League,Leeds United vs Arsenal,12/19/2020,Leeds United,Arsenal,0,1
-13,Premier League,Liverpool vs Fulham,12/13/2020,Liverpool,Fulham,1,1
-13,Premier League,Tottenham Hotspur vs Leicester City,12/20/2020,Tottenham Hotspur,Leicester City,2,0
-13,Premier League,Manchester United vs Everton,12/20/2020,Manchester United,Everton,3,1
-13,Premier League,Crystal Palace vs Newcastle United,12/13/2020,Crystal Palace,Newcastle United,2,0
-13,Premier League,West Ham United vs Leeds United,12/19/2020,West Ham United,Leeds United,2,1
-13,Premier League,Brentford vs Brighton & Hove Albion,12/19/2020,Brentford,Brighton & Hove Albion,2,0
-14,Premier League,Everton vs Leicester City,12/28/2020,Everton,Leicester City,0,2
-14,Premier League,Arsenal vs Southampton,12/26/2020,Arsenal,Southampton,3,1
-14,Premier League,Tottenham Hotspur vs Brighton & Hove Albion,12/28/2020,Tottenham Hotspur,Brighton & Hove Albion,1,0
-14,Premier League,Manchester United vs Newcastle United,12/26/2020,Manchester United,Newcastle United,4,1
-14,Premier League,Chelsea vs West Ham United,12/28/2020,Chelsea,West Ham United,3,0
-14,Premier League,Leeds United vs Burnley,12/27/2020,Leeds United,Burnley,1,0
-14,Premier League,Sheffield United vs Liverpool,12/28/2020,Sheffield United,Liverpool,0,2
-14,Premier League,Crystal Palace vs Tottenham Hotspur,12/26/2020,Crystal Palace,Tottenham Hotspur,1,1
-14,Premier League,Wolverhampton Wanderers vs Chelsea,12/27/2020,Wolverhampton Wanderers,Chelsea,0,2
-14,Premier League,Southampton vs West Bromwich Albion,12/26/2020,Southampton,West Bromwich Albion,2,0
-15,Premier League,Leicester City vs Chelsea,12/28/2020,Leicester City,Chelsea,2,0
-15,Premier League,Tottenham Hotspur vs Wolves,12/28/2020,Tottenham Hotspur,Wolves,1,0
-15,Premier League,Liverpool vs Leicester City,12/19/2020,Liverpool,Leicester City,4,0
-15,Premier League,Manchester United vs West Bromwich Albion,12/14/2020,Manchester United,West Bromwich Albion,3,0
-15,Premier League,Everton vs Sheffield United,12/13/2020,Everton,Sheffield United,1,0
-15,Premier League,Brighton & Hove Albion vs Leeds United,12/19/2020,Brighton & Hove Albion,Leeds United,2,3
-15,Premier League,West Ham United vs Newcastle United,12/19/2020,West Ham United,Newcastle United,2,2
-15,Premier League,Aston Villa vs Sheffield United,12/21/2020,Aston Villa,Sheffield United,1,0
-15,Premier League,Arsenal vs Fulham,12/12/2020,Arsenal,Fulham,3,0
-15,Premier League,Southampton vs Burnley,12/13/2020,Southampton,Burnley,1,0
-16,Premier League,Arsenal vs Chelsea,12/26/2020,Arsenal,Chelsea,3,1
-16,Premier League,Everton vs Manchester United,12/20/2020,Everton,Manchester United,0,2
-16,Premier League,Leicester City vs Southampton,12/20/2020,Leicester City,Southampton,2,0
-16,Premier League,Tottenham Hotspur vs Leeds United,12/26/2020,Tottenham Hotspur,Leeds United,3,1
-16,Premier League,Manchester City vs Newcastle United,12/26/2020,Manchester City,Newcastle United,2,0
-16,Premier League,Wolverhampton Wanderers vs Aston Villa,12/26/2020,Wolverhampton Wanderers,Aston Villa,0,1
-16,Premier League,Fulham vs Burnley,12/19/2020,Fulham,Burnley,0,0
-16,Premier League,West Bromwich Albion vs Sheffield United,12/19/2020,West Bromwich Albion,Sheffield United,1,0
-16,Premier League,Southampton vs West Ham United,12/19/2020,Southampton,West Ham United,3,0
-16,Premier League,Crystal Palace vs Tottenham Hotspur,12/26/2020,Crystal Palace,Tottenham Hotspur,1,1
-17,Premier League,West Ham United vs Brighton & Hove Albion,12/27/2020,West Ham United,Brighton & Hove Albion,2,2
-17,Premier League,Aston Villa vs Burnley,12/28/2020,Aston Villa,Burnley,2,1
-17,Premier League,Arsenal vs Newcastle United,12/27/2020,Arsenal,Newcastle United,3,0
-17,Premier League,Leeds United vs Manchester United,12/20/2020,Leeds United,Manchester United,2,6
-17,Premier League,Sheffield United vs Southampton,12/28/2020,Sheffield United,Southampton,0,1
-17,Premier League,Crystal Palace vs Wolverhampton Wanderers,12/28/2020,Crystal Palace,Wolverhampton Wanderers,1,2
-17,Premier League,Chelsea vs Leicester City,12/28/2020,Chelsea,Leicester City,2,0
-17,Premier League,Everton vs West Bromwich Albion,12/28/2020,Everton,West Bromwich Albion,1,1
-17,Premier League,Tottenham Hotspur vs Fulham,12/28/2020,Tottenham Hotspur,Fulham,1,1
-17,Premier League,Manchester City vs Brighton & Hove Albion,12/26/2020,Manchester City,Brighton & Hove Albion,3,0
-18,Premier League,Leicester City vs Chelsea,1/2/2021,Leicester City,Chelsea,2,0
-18,Premier League,Everton vs West Bromwich Albion,1/2/2021,Everton,West Bromwich Albion,1,1
-18,Premier League,Tottenham Hotspur vs Fulham,1/2/2021,Tottenham Hotspur,Fulham,1,1
-18,Premier League,Manchester United vs Leeds United,1/1/2021,Manchester United,Leeds United,6,2
-18,Premier League,Wolverhampton Wanderers vs Crystal Palace,1/2/2021,Wolverhampton Wanderers,Crystal Palace,1,0
-18,Premier League,Arsenal vs Newcastle United,1/2/2021,Arsenal,Newcastle United,3,0
-18,Premier League,Southampton vs Sheffield United,1/2/2021,Southampton,Sheffield United,1,0
-18,Premier League,Leeds United vs Burnley,1/2/2021,Leeds United,Burnley,1,0
-18,Premier League,Manchester City vs Chelsea,1/3/2021,Manchester City,Chelsea,3,1
-18,Premier League,Fulham vs Aston Villa,1/2/2021,Fulham,Aston Villa,0,3
-19,Premier League,Sheffield United vs Newcastle United,1/12/2021,Sheffield United,Newcastle United,1,0
-19,Premier League,Aston Villa vs Manchester City,1/20/2021,Aston Villa,Manchester City,0,2
-19,Premier League,Brighton & Hove Albion vs Leeds United,1/16/2021,Brighton & Hove Albion,Leeds United,0,1
-19,Premier League,West Bromwich Albion vs Fulham,1/16/2021,West Bromwich Albion,Fulham,2,2
-19,Premier League,Tottenham Hotspur vs Liverpool,1/28/2021,Tottenham Hotspur,Liverpool,1,3
-19,Premier League,Everton vs Leicester City,1/27/2021,Everton,Leicester City,1,1
-19,Premier League,Manchester United vs Burnley,1/12/2021,Manchester United,Burnley,1,0
-19,Premier League,Chelsea vs Wolverhampton Wanderers,1/27/2021,Chelsea,Wolverhampton Wanderers,0,0
-19,Premier League,Southampton vs Arsenal,1/23/2021,Southampton,Arsenal,1,3
-19,Premier League,Newcastle United vs Everton,1/30/2021,Newcastle United,Everton,0,2
-20,Premier League,Leeds United vs Everton,2/3/2021,Leeds United,Everton,2,1
-20,Premier League,Fulham vs Leicester City,2/3/2021,Fulham,Leicester City,0,2
-20,Premier League,Tottenham Hotspur vs Chelsea,2/4/2021,Tottenham Hotspur,Chelsea,0,1
-20,Premier League,Manchester City vs Sheffield United,2/6/2021,Manchester City,Sheffield United,1,0
-20,Premier League,West Ham United vs Liverpool,2/5/2021,West Ham United,Liverpool,1,3
-20,Premier League,Arsenal vs Manchester United,1/30/2021,Arsenal,Manchester United,0,0
-20,Premier League,Wolverhampton Wanderers vs Southampton,2/6/2021,Wolverhampton Wanderers,Southampton,2,1
-20,Premier League,Newcastle United vs Crystal Palace,2/6/2021,Newcastle United,Crystal Palace,1,2
-20,Premier League,Chelsea vs Burnley,2/6/2021,Chelsea,Burnley,2,0
-20,Premier League,Leicester City vs Wolverhampton Wanderers,2/7/2021,Leicester City,Wolverhampton Wanderers,2,0
-21,Premier League,Arsenal vs Sheffield United,2/28/2021,Arsenal,Sheffield United,2,1
-21,Premier League,Brighton & Hove Albion vs Aston Villa,2/13/2021,Brighton & Hove Albion,Aston Villa,0,0
-21,Premier League,Manchester United vs Southampton,2/2/2021,Manchester United,Southampton,9,0
-21,Premier League,Tottenham Hotspur vs West Bromwich Albion,2/7/2021,Tottenham Hotspur,West Bromwich Albion,2,0
-21,Premier League,Leicester City vs Liverpool,2/13/2021,Leicester City,Liverpool,3,1
-21,Premier League,Crystal Palace vs Burnley,2/23/2021,Crystal Palace,Burnley,0,3
-21,Premier League,Chelsea vs Newcastle United,2/15/2021,Chelsea,Newcastle United,2,0
-21,Premier League,Everton vs Fulham,2/14/2021,Everton,Fulham,0,0
-21,Premier League,Wolverhampton Wanderers vs Tottenham Hotspur,2/13/2021,Wolverhampton Wanderers,Tottenham Hotspur,1,1
-21,Premier League,West Ham United vs Leeds United,2/11/2021,West Ham United,Leeds United,2,0
-22,Premier League,Brighton & Hove Albion vs Tottenham Hotspur,2/13/2021,Brighton & Hove Albion,Tottenham Hotspur,1,1
-22,Premier League,West Bromwich Albion vs Manchester City,2/7/2021,West Bromwich Albion,Manchester City,0,5
-22,Premier League,Leeds United vs Crystal Palace,2/8/2021,Leeds United,Crystal Palace,2,0
-22,Premier League,Southampton vs Chelsea,2/20/2021,Southampton,Chelsea,1,1
-22,Premier League,Everton vs Manchester United,2/20/2021,Everton,Manchester United,3,3
-22,Premier League,Arsenal vs Leeds United,2/14/2021,Arsenal,Leeds United,4,2
-22,Premier League,Wolverhampton Wanderers vs Southampton,2/20/2021,Wolverhampton Wanderers,Southampton,2,1
-22,Premier League,Burnley vs Aston Villa,2/19/2021,Burnley,Aston Villa,3,2
-22,Premier League,Newcastle United vs Everton,2/27/2021,Newcastle United,Everton,0,2
-22,Premier League,Tottenham Hotspur vs West Ham United,2/21/2021,Tottenham Hotspur,West Ham United,2,1
-23,Premier League,Leicester City vs Aston Villa,2/21/2021,Leicester City,Aston Villa,2,1
-23,Premier League,Brighton & Hove Albion vs Fulham,2/20/2021,Brighton & Hove Albion,Fulham,0,0
-23,Premier League,Arsenal vs Manchester City,2/21/2021,Arsenal,Manchester City,0,1
-23,Premier League,Southampton vs Manchester United,2/22/2021,Southampton,Manchester United,1,9
-23,Premier League,West Bromwich Albion vs Sheffield United,2/28/2021,West Bromwich Albion,Sheffield United,1,0
-23,Premier League,Leeds United vs Everton,2/28/2021,Leeds United,Everton,2,1
-23,Premier League,Tottenham Hotspur vs Crystal Palace,2/28/2021,Tottenham Hotspur,Crystal Palace,4,1
-23,Premier League,Newcastle United vs Chelsea,2/28/2021,Newcastle United,Chelsea,0,2
-23,Premier League,Burnley vs Leicester City,2/28/2021,Burnley,Leicester City,0,1
-23,Premier League,Chelsea vs Sheffield United,2/28/2021,Chelsea,Sheffield United,2,1
-24,Premier League,Leeds United vs Manchester United,2/25/2021,Leeds United,Manchester United,0,4
-24,Premier League,Everton vs West Bromwich Albion,2/27/2021,Everton,West Bromwich Albion,1,0
-24,Premier League,Manchester City vs Wolverhampton Wanderers,2/26/2021,Manchester City,Wolverhampton Wanderers,4,1
-24,Premier League,Chelsea vs Leeds United,2/27/2021,Chelsea,Leeds United,3,1
-24,Premier League,Southampton vs Arsenal,2/25/2021,Southampton,Arsenal,1,3
-24,Premier League,Tottenham Hotspur vs Burnley,2/28/2021,Tottenham Hotspur,Burnley,4,0
-24,Premier League,Leicester City vs Wolverhampton Wanderers,2/25/2021,Leicester City,Wolverhampton Wanderers,1,0
-24,Premier League,Fulham vs Sheffield United,2/27/2021,Fulham,Sheffield United,1,0
-24,Premier League,Brighton & Hove Albion vs Crystal Palace,2/27/2021,Brighton & Hove Albion,Crystal Palace,1,2
-24,Premier League,Aston Villa vs Newcastle United,2/27/2021,Aston Villa,Newcastle United,2,0
-25,Premier League,Manchester United vs Newcastle United,2/21/2021,Manchester United,Newcastle United,3,1
-25,Premier League,Sheffield United vs Aston Villa,2/21/2021,Sheffield United,Aston Villa,1,0
-25,Premier League,Fulham vs Leeds United,2/20/2021,Fulham,Leeds United,1,1
-25,Premier League,Arsenal vs Burnley,2/21/2021,Arsenal,Burnley,1,1
-25,Premier League,Southampton vs Chelsea,2/20/2021,Southampton,Chelsea,1,1
-25,Premier League,Everton vs Liverpool,2/20/2021,Everton,Liverpool,2,0
-25,Premier League,Leicester City vs Manchester City,2/21/2021,Leicester City,Manchester City,0,5
-25,Premier League,Tottenham Hotspur vs Crystal Palace,2/22/2021,Tottenham Hotspur,Crystal Palace,4,1
-25,Premier League,Wolverhampton Wanderers vs West Ham United,2/21/2021,Wolverhampton Wanderers,West Ham United,3,2
-25,Premier League,Brighton & Hove Albion vs Sheffield United,2/20/2021,Brighton & Hove Albion,Sheffield United,1,0
-26,Premier League,Leeds United vs Manchester City,3/3/2021,Leeds United,Manchester City,0,2
-26,Premier League,West Bromwich Albion vs Brighton & Hove Albion,3/3/2021,West Bromwich Albion,Brighton & Hove Albion,0,1
-26,Premier League,Burnley vs Tottenham Hotspur,3/3/2021,Burnley,Tottenham Hotspur,0,4
-26,Premier League,Chelsea vs Everton,3/8/2021,Chelsea,Everton,2,0
-26,Premier League,Aston Villa vs Leicester City,3/8/2021,Aston Villa,Leicester City,1,2
-26,Premier League,Fulham vs Crystal Palace,3/8/2021,Fulham,Crystal Palace,0,0
-26,Premier League,Arsenal vs Tottenham Hotspur,3/7/2021,Arsenal,Tottenham Hotspur,2,1
-26,Premier League,Southampton vs Brighton & Hove Albion,3/7/2021,Southampton,Brighton & Hove Albion,1,2
-26,Premier League,West Ham United vs Leeds United,3/8/2021,West Ham United,Leeds United,2,0
-26,Premier League,Newcastle United vs Wolves,3/8/2021,Newcastle United,Wolves,1,1
-27,Premier League,Tottenham Hotspur vs Crystal Palace,3/7/2021,Tottenham Hotspur,Crystal Palace,4,1
-27,Premier League,Leicester City vs Sheffield United,3/6/2021,Leicester City,Sheffield United,5,0
-27,Premier League,West Bromwich Albion vs Southampton,3/6/2021,West Bromwich Albion,Southampton,1,0
-27,Premier League,Everton vs Fulham,3/6/2021,Everton,Fulham,1,0
-27,Premier League,Arsenal vs Burnley,3/6/2021,Arsenal,Burnley,1,1
-27,Premier League,Chelsea vs Leeds United,3/13/2021,Chelsea,Leeds United,3,1
-27,Premier League,Manchester City vs Wolves,3/13/2021,Manchester City,Wolves,4,1
-27,Premier League,Sheffield United vs Newcastle United,3/13/2021,Sheffield United,Newcastle United,1,0
-27,Premier League,Aston Villa vs Manchester United,3/13/2021,Aston Villa,Manchester United,1,3
-27,Premier League,Brighton & Hove Albion vs West Ham United,3/13/2021,Brighton & Hove Albion,West Ham United,1,0
-28,Premier League,Manchester United vs West Ham United,3/14/2021,Manchester United,West Ham United,1,0
-28,Premier League,Fulham vs Leeds United,3/19/2021,Fulham,Leeds United,1,2
-28,Premier League,Chelsea vs Everton,3/8/2021,Chelsea,Everton,2,0
-28,Premier League,Burnley vs Leicester City,3/21/2021,Burnley,Leicester City,1,1
-28,Premier League,Wolverhampton Wanderers vs Liverpool,3/15/2021,Wolverhampton Wanderers,Liverpool,0,1
-28,Premier League,Southampton vs Crystal Palace,3/15/2021,Southampton,Crystal Palace,1,2
-28,Premier League,Arsenal vs Sheffield United,3/14/2021,Arsenal,Sheffield United,3,0
-28,Premier League,Tottenham Hotspur vs Aston Villa,3/21/2021,Tottenham Hotspur,Aston Villa,2,0
-28,Premier League,Newcastle United vs Brighton & Hove Albion,3/21/2021,Newcastle United,Brighton & Hove Albion,1,1
-28,Premier League,Leicester City vs Manchester City,3/21/2021,Leicester City,Manchester City,0,5
-29,Premier League,West Ham United vs Arsenal,3/21/2021,West Ham United,Arsenal,3,3
-29,Premier League,Leeds United vs Newcastle United,3/21/2021,Leeds United,Newcastle United,2,1
-29,Premier League,Sheffield United vs Chelsea,3/21/2021,Sheffield United,Chelsea,0,2
-29,Premier League,Aston Villa vs Wolverhampton Wanderers,3/21/2021,Aston Villa,Wolverhampton Wanderers,0,0
-29,Premier League,Manchester United vs Brighton & Hove Albion,3/22/2021,Manchester United,Brighton & Hove Albion,2,1
-29,Premier League,Liverpool vs Fulham,3/22/2021,Liverpool,Fulham,1,0
-29,Premier League,Tottenham Hotspur vs Crystal Palace,3/22/2021,Tottenham Hotspur,Crystal Palace,4,1
-29,Premier League,Southampton vs Burnley,3/22/2021,Southampton,Burnley,2,0
-29,Premier League,Everton vs Leicester City,3/22/2021,Everton,Leicester City,2,1
-29,Premier League,West Bromwich Albion vs Chelsea,3/22/2021,West Bromwich Albion,Chelsea,5,2
-30,Premier League,Manchester City vs Leeds United,4/3/2021,Manchester City,Leeds United,2,1
-30,Premier League,Arsenal vs Liverpool,4/3/2021,Arsenal,Liverpool,0,3
-30,Premier League,Tottenham Hotspur vs Newcastle United,4/3/2021,Tottenham Hotspur,Newcastle United,2,2
-30,Premier League,Burnley vs Southampton,4/3/2021,Burnley,Southampton,3,0
-30,Premier League,Everton vs Aston Villa,4/3/2021,Everton,Aston Villa,1,2
-30,Premier League,West Bromwich Albion vs Leicester City,4/3/2021,West Bromwich Albion,Leicester City,0,3
-30,Premier League,Fulham vs Wolverhampton Wanderers,4/3/2021,Fulham,Wolverhampton Wanderers,1,1
-30,Premier League,Sheffield United vs Crystal Palace,4/3/2021,Sheffield United,Crystal Palace,0,2
-30,Premier League,Southampton vs Chelsea,4/3/2021,Southampton,Chelsea,1,1
-30,Premier League,Leeds United vs Aston Villa,4/3/2021,Leeds United,Aston Villa,0,3
-31,Premier League,Arsenal vs Sheffield United,4/11/2021,Arsenal,Sheffield United,3,0
-31,Premier League,Fulham vs Wolverhampton Wanderers,4/10/2021,Fulham,Wolverhampton Wanderers,1,1
-31,Premier League,Brighton & Hove Albion vs Manchester United,4/10/2021,Brighton & Hove Albion,Manchester United,0,2
-31,Premier League,Crystal Palace vs Chelsea,4/10/2021,Crystal Palace,Chelsea,1,4
-31,Premier League,Leeds United vs Liverpool,4/10/2021,Leeds United,Liverpool,1,1
-31,Premier League,Leicester City vs West Bromwich Albion,4/10/2021,Leicester City,West Bromwich Albion,3,0
-31,Premier League,Manchester City vs Tottenham Hotspur,4/10/2021,Manchester City,Tottenham Hotspur,1,0
-31,Premier League,Southampton vs Burnley,4/11/2021,Southampton,Burnley,3,2
-31,Premier League,West Ham United vs Newcastle United,4/11/2021,West Ham United,Newcastle United,3,2
-31,Premier League,Aston Villa vs Everton,4/11/2021,Aston Villa,Everton,2,1
-32,Premier League,Liverpool vs Newcastle United,4/24/2021,Liverpool,Newcastle United,1,1
-32,Premier League,Manchester United vs Leeds United,4/25/2021,Manchester United,Leeds United,6,2
-32,Premier League,Southampton vs Leicester City,4/25/2021,Southampton,Leicester City,1,1
-32,Premier League,Chelsea vs Fulham,4/25/2021,Chelsea,Fulham,2,0
-32,Premier League,Wolverhampton Wanderers vs Burnley,4/25/2021,Wolverhampton Wanderers,Burnley,0,4
-32,Premier League,Crystal Palace vs Aston Villa,4/25/2021,Crystal Palace,Aston Villa,2,3
-32,Premier League,Tottenham Hotspur vs Sheffield United,4/25/2021,Tottenham Hotspur,Sheffield United,4,0
-32,Premier League,West Ham United vs Everton,4/24/2021,West Ham United,Everton,1,0
-32,Premier League,West Bromwich Albion vs Liverpool,4/24/2021,West Bromwich Albion,Liverpool,1,2
-32,Premier League,Arsenal vs Fulham,4/18/2021,Arsenal,Fulham,1,1
-33,Premier League,Leeds United vs Manchester United,4/25/2021,Leeds United,Manchester United,0,0
-33,Premier League,Brighton & Hove Albion vs Sheffield United,4/26/2021,Brighton & Hove Albion,Sheffield United,1,0
-33,Premier League,Tottenham Hotspur vs Wolverhampton Wanderers,4/26/2021,Tottenham Hotspur,Wolverhampton Wanderers,2,0
-33,Premier League,Everton vs Aston Villa,4/26/2021,Everton,Aston Villa,0,0
-33,Premier League,Leicester City vs Newcastle United,4/26/2021,Leicester City,Newcastle United,2,4
-33,Premier League,Southampton vs Crystal Palace,4/26/2021,Southampton,Crystal Palace,3,1
-33,Premier League,Manchester City vs Chelsea,5/8/2021,Manchester City,Chelsea,1,2
-33,Premier League,Arsenal vs Everton,5/2/2021,Arsenal,Everton,0,1
-33,Premier League,Burnley vs Leeds United,5/2/2021,Burnley,Leeds United,0,4
-33,Premier League,Wolverhampton Wanderers vs Tottenham Hotspur,5/2/2021,Wolverhampton Wanderers,Tottenham Hotspur,1,2
-34,Premier League,Sheffield United vs Crystal Palace,5/19/2021,Sheffield United,Crystal Palace,0,2
-34,Premier League,Fulham vs Burnley,5/19/2021,Fulham,Burnley,0,2
-34,Premier League,Wolverhampton Wanderers vs Brighton & Hove Albion,5/19/2021,Wolverhampton Wanderers,Brighton & Hove Albion,2,1
-34,Premier League,Southampton vs Leeds United,5/18/2021,Southampton,Leeds United,0,2
-34,Premier League,Newcastle United vs Manchester City,5/14/2021,Newcastle United,Manchester City,3,4
-34,Premier League,Leicester City vs Chelsea,5/18/2021,Leicester City,Chelsea,1,2
-34,Premier League,Tottenham Hotspur vs Wolverhampton Wanderers,5/16/2021,Tottenham Hotspur,Wolverhampton Wanderers,2,0
-34,Premier League,Arsenal vs West Bromwich Albion,5/9/2021,Arsenal,West Bromwich Albion,3,1
-34,Premier League,West Ham United vs Brighton & Hove Albion,5/9/2021,West Ham United,Brighton & Hove Albion,1,1
-34,Premier League,Leeds United vs Manchester United,5/9/2021,Leeds United,Manchester United,0,0
-35,Premier League,Chelsea vs Leicester City,5/15/2021,Chelsea,Leicester City,2,1
-35,Premier League,West Bromwich Albion vs Liverpool,5/16/2021,West Bromwich Albion,Liverpool,1,2
-35,Premier League,Southampton vs Crystal Palace,5/15/2021,Southampton,Crystal Palace,3,1
-35,Premier League,Tottenham Hotspur vs Aston Villa,5/19/2021,Tottenham Hotspur,Aston Villa,2,1
-35,Premier League,Manchester United vs Fulham,5/19/2021,Manchester United,Fulham,1,1
-35,Premier League,Burnley vs Leeds United,5/23/2021,Burnley,Leeds United,0,4
-35,Premier League,Sheffield United vs Newcastle United,5/23/2021,Sheffield United,Newcastle United,1,0
-35,Premier League,Arsenal vs Brighton & Hove Albion,5/23/2021,Arsenal,Brighton & Hove Albion,2,0
-35,Premier League,Everton vs Wolverhampton Wanderers,5/23/2021,Everton,Wolverhampton Wanderers,1,0
-35,Premier League,Manchester City vs Chelsea,5/23/2021,Manchester City,Chelsea,1,2
-36,Premier League,Crystal Palace vs Arsenal,5/19/2021,Crystal Palace,Arsenal,1,3
-36,Premier League,Leicester City vs Tottenham Hotspur,5/23/2021,Leicester City,Tottenham Hotspur,2,4
-36,Premier League,Brighton & Hove Albion vs Manchester City,5/23/2021,Brighton & Hove Albion,Manchester City,2,3
-36,Premier League,Sheffield United vs Everton,5/23/2021,Sheffield United,Everton,0,1
-36,Premier League,Newcastle United vs Southampton,5/23/2021,Newcastle United,Southampton,0,2
-36,Premier League,West Bromwich Albion vs Burnley,5/23/2021,West Bromwich Albion,Burnley,1,1
-36,Premier League,West Ham United vs Leeds United,5/23/2021,West Ham United,Leeds United,2,0
-36,Premier League,Aston Villa vs Chelsea,5/23/2021,Aston Villa,Chelsea,1,2
-36,Premier League,Fulham vs Wolverhampton Wanderers,5/23/2021,Fulham,Wolverhampton Wanderers,0,1
-36,Premier League,Tottenham Hotspur vs Liverpool,5/23/2021,Tottenham Hotspur,Liverpool,2,1
-37,Premier League,Burnley vs Liverpool,5/19/2021,Burnley,Liverpool,0,3
-37,Premier League,Leeds United vs West Bromwich Albion,5/23/2021,Leeds United,West Bromwich Albion,3,1
-37,Premier League,Sheffield United vs Newcastle United,5/23/2021,Sheffield United,Newcastle United,0,1
-37,Premier League,Tottenham Hotspur vs Leicester City,5/23/2021,Tottenham Hotspur,Leicester City,4,2
-37,Premier League,Aston Villa vs Chelsea,5/23/2021,Aston Villa,Chelsea,1,2
-37,Premier League,Manchester United vs Wolverhampton Wanderers,5/23/2021,Manchester United,Wolverhampton Wanderers,2,1
-37,Premier League,West Ham United vs Southampton,5/23/2021,West Ham United,Southampton,3,0
-37,Premier League,Crystal Palace vs Fulham,5/23/2021,Crystal Palace,Fulham,2,0
-37,Premier League,Arsenal vs Brighton & Hove Albion,5/23/2021,Arsenal,Brighton & Hove Albion,2,0
-37,Premier League,Everton vs Manchester City,5/23/2021,Everton,Manchester City,1,3
-38,Premier League,Crystal Palace vs Manchester United,5/23/2021,Crystal Palace,Manchester United,1,1
-38,Premier League,Arsenal vs Brighton & Hove Albion,5/23/2021,Arsenal,Brighton & Hove Albion,2,0
-38,Premier League,Everton vs Southampton,5/23/2021,Everton,Southampton,1,0
-38,Premier League,Leeds United vs West Bromwich Albion,5/23/2021,Leeds United,West Bromwich Albion,3,1
-38,Premier League,Sheffield United vs Newcastle United,5/23/2021,Sheffield United,Newcastle United,0,1
-38,Premier League,Tottenham Hotspur vs Leicester City,5/23/2021,Tottenham Hotspur,Leicester City,4,2
-38,Premier League,Manchester City vs Chelsea,5/23/2021,Manchester City,Chelsea,1,2
-38,Premier League,West Ham United vs Southampton,5/23/2021,West Ham United,Southampton,3,0
-38,Premier League,Burnley vs Liverpool,5/23/2021,Burnley,Liverpool,0,3
-38,Premier League,Aston Villa vs Wolverhampton Wanderers,5/23/2021,Aston Villa,Wolverhampton Wanderers,1,1
+1,Premier League,Brentford vs Arsenal,8/13/2021,Brentford,Arsenal,2,0
+1,Premier League,Manchester United vs Leeds United,8/14/2021,Manchester United,Leeds United,5,1
+1,Premier League,Leicester City vs Wolverhampton Wanderers,8/14/2021,Leicester City,Wolverhampton Wanderers,1,0
+1,Premier League,Chelsea vs Crystal Palace,8/14/2021,Chelsea,Crystal Palace,3,0
+1,Premier League,Watford vs Aston Villa,8/14/2021,Watford,Aston Villa,3,2
+1,Premier League,Everton vs Southampton,8/14/2021,Everton,Southampton,3,1
+1,Premier League,Burnley vs Brighton & Hove Albion,8/14/2021,Burnley,Brighton & Hove Albion,1,2
+1,Premier League,Norwich City vs Liverpool,8/14/2021,Norwich City,Liverpool,0,3
+1,Premier League,Newcastle United vs West Ham United,8/15/2021,Newcastle United,West Ham United,2,4
+1,Premier League,Tottenham Hotspur vs Manchester City,8/15/2021,Tottenham Hotspur,Manchester City,1,0
+2,Premier League,Liverpool vs Burnley,8/21/2021,Liverpool,Burnley,2,0
+2,Premier League,Aston Villa vs Newcastle United,8/21/2021,Aston Villa,Newcastle United,2,0
+2,Premier League,Crystal Palace vs Brentford,8/21/2021,Crystal Palace,Brentford,0,0
+2,Premier League,Leeds United vs Everton,8/21/2021,Leeds United,Everton,2,2
+2,Premier League,Manchester City vs Norwich City,8/21/2021,Manchester City,Norwich City,5,0
+2,Premier League,Brighton & Hove Albion vs Watford,8/21/2021,Brighton & Hove Albion,Watford,2,0
+2,Premier League,Southampton vs Manchester United,8/22/2021,Southampton,Manchester United,1,1
+2,Premier League,Wolverhampton Wanderers vs Tottenham Hotspur,8/22/2021,Wolverhampton Wanderers,Tottenham Hotspur,0,1
+2,Premier League,Arsenal vs Chelsea,8/22/2021,Arsenal,Chelsea,0,2
+2,Premier League,West Ham United vs Leicester City,8/23/2021,West Ham United,Leicester City,4,1
+3,Premier League,Manchester City vs Arsenal,8/28/2021,Manchester City,Arsenal,5,0
+3,Premier League,Aston Villa vs Brentford,8/28/2021,Aston Villa,Brentford,1,1
+3,Premier League,Brighton & Hove Albion vs Everton,8/28/2021,Brighton & Hove Albion,Everton,0,2
+3,Premier League,Newcastle United vs Southampton,8/28/2021,Newcastle United,Southampton,2,2
+3,Premier League,Norwich City vs Leicester City,8/28/2021,Norwich City,Leicester City,1,2
+3,Premier League,West Ham United vs Crystal Palace,8/28/2021,West Ham United,Crystal Palace,2,2
+3,Premier League,Liverpool vs Chelsea,8/28/2021,Liverpool,Chelsea,1,1
+3,Premier League,Burnley vs Leeds United,8/29/2021,Burnley,Leeds United,1,1
+3,Premier League,Tottenham Hotspur vs Watford,8/29/2021,Tottenham Hotspur,Watford,1,0
+3,Premier League,Wolverhampton Wanderers vs Manchester United,8/29/2021,Wolverhampton Wanderers,Manchester United,0,1
+4,Premier League,Crystal Palace vs Tottenham Hotspur,9/11/2021,Crystal Palace,Tottenham Hotspur,3,0
+4,Premier League,Arsenal vs Norwich City,9/11/2021,Arsenal,Norwich City,1,0
+4,Premier League,Brentford vs Brighton & Hove Albion,9/11/2021,Brentford,Brighton & Hove Albion,0,1
+4,Premier League,Leicester City vs Manchester City,9/11/2021,Leicester City,Manchester City,0,1
+4,Premier League,Manchester United vs Newcastle United,9/11/2021,Manchester United,Newcastle United,4,1
+4,Premier League,Southampton vs West Ham United,9/11/2021,Southampton,West Ham United,0,0
+4,Premier League,Watford vs Wolverhampton Wanderers,9/11/2021,Watford,Wolverhampton Wanderers,0,2
+4,Premier League,Chelsea vs Aston Villa,9/11/2021,Chelsea,Aston Villa,3,0
+4,Premier League,Leeds United vs Liverpool,9/12/2021,Leeds United,Liverpool,0,3
+4,Premier League,Everton vs Burnley,9/13/2021,Everton,Burnley,3,1
+5,Premier League,Newcastle United vs Leeds United,9/17/2021,Newcastle United,Leeds United,1,1
+5,Premier League,Wolverhampton Wanderers vs Brentford,9/18/2021,Wolverhampton Wanderers,Brentford,0,2
+5,Premier League,Burnley vs Arsenal,9/18/2021,Burnley,Arsenal,0,1
+5,Premier League,Liverpool vs Crystal Palace,9/18/2021,Liverpool,Crystal Palace,3,0
+5,Premier League,Manchester City vs Southampton,9/18/2021,Manchester City,Southampton,0,0
+5,Premier League,Norwich City vs Watford,9/18/2021,Norwich City,Watford,1,3
+5,Premier League,Aston Villa vs Everton,9/18/2021,Aston Villa,Everton,3,0
+5,Premier League,Brighton & Hove Albion vs Leicester City,9/19/2021,Brighton & Hove Albion,Leicester City,2,1
+5,Premier League,West Ham United vs Manchester United,9/19/2021,West Ham United,Manchester United,1,2
+5,Premier League,Tottenham Hotspur vs Chelsea,9/19/2021,Tottenham Hotspur,Chelsea,0,3
+6,Premier League,Chelsea vs Manchester City,9/25/2021,Chelsea,Manchester City,0,1
+6,Premier League,Manchester United vs Aston Villa,9/25/2021,Manchester United,Aston Villa,0,1
+6,Premier League,Everton vs Norwich City,9/25/2021,Everton,Norwich City,2,0
+6,Premier League,Leeds United vs West Ham United,9/25/2021,Leeds United,West Ham United,1,2
+6,Premier League,Leicester City vs Burnley,9/25/2021,Leicester City,Burnley,2,2
+6,Premier League,Watford vs Newcastle United,9/25/2021,Watford,Newcastle United,1,1
+6,Premier League,Brentford vs Liverpool,9/25/2021,Brentford,Liverpool,3,3
+6,Premier League,Southampton vs Wolverhampton Wanderers,9/26/2021,Southampton,Wolverhampton Wanderers,0,1
+6,Premier League,Arsenal vs Tottenham Hotspur,9/26/2021,Arsenal,Tottenham Hotspur,3,1
+6,Premier League,Brighton & Hove Albion vs Crystal Palace,9/27/2021,Brighton & Hove Albion,Crystal Palace,1,1
+7,Premier League,Manchester United vs Everton,10/2/2021,Manchester United,Everton,1,1
+7,Premier League,Burnley vs Norwich City,10/2/2021,Burnley,Norwich City,0,0
+7,Premier League,Chelsea vs Southampton,10/2/2021,Chelsea,Southampton,3,1
+7,Premier League,Leeds United vs Watford,10/2/2021,Leeds United,Watford,1,0
+7,Premier League,Wolverhampton Wanderers vs Newcastle United,10/2/2021,Wolverhampton Wanderers,Newcastle United,2,1
+7,Premier League,Brighton & Hove Albion vs Arsenal,10/2/2021,Brighton & Hove Albion,Arsenal,0,0
+7,Premier League,Crystal Palace vs Leicester City,10/3/2021,Crystal Palace,Leicester City,2,2
+7,Premier League,Tottenham Hotspur vs Aston Villa,10/3/2021,Tottenham Hotspur,Aston Villa,2,1
+7,Premier League,West Ham United vs Brentford,10/3/2021,West Ham United,Brentford,1,2
+7,Premier League,Liverpool vs Manchester City,10/3/2021,Liverpool,Manchester City,2,2
+8,Premier League,Watford vs Liverpool,10/16/2021,Watford,Liverpool,0,5
+8,Premier League,Aston Villa vs Wolverhampton Wanderers,10/16/2021,Aston Villa,Wolverhampton Wanderers,2,3
+8,Premier League,Leicester City vs Manchester United,10/16/2021,Leicester City,Manchester United,4,2
+8,Premier League,Manchester City vs Burnley,10/16/2021,Manchester City,Burnley,2,0
+8,Premier League,Norwich City vs Brighton & Hove Albion,10/16/2021,Norwich City,Brighton & Hove Albion,0,0
+8,Premier League,Southampton vs Leeds United,10/16/2021,Southampton,Leeds United,1,0
+8,Premier League,Brentford vs Chelsea,10/16/2021,Brentford,Chelsea,0,1
+8,Premier League,Everton vs West Ham United,10/17/2021,Everton,West Ham United,0,1
+8,Premier League,Newcastle United vs Tottenham Hotspur,10/17/2021,Newcastle United,Tottenham Hotspur,2,3
+8,Premier League,Arsenal vs Crystal Palace,10/18/2021,Arsenal,Crystal Palace,2,2
+9,Premier League,Arsenal vs Aston Villa,10/22/2021,Arsenal,Aston Villa,3,1
+9,Premier League,Chelsea vs Norwich City,10/23/2021,Chelsea,Norwich City,7,0
+9,Premier League,Crystal Palace vs Newcastle United,10/23/2021,Crystal Palace,Newcastle United,1,1
+9,Premier League,Everton vs Watford,10/23/2021,Everton,Watford,2,5
+9,Premier League,Leeds United vs Wolverhampton Wanderers,10/23/2021,Leeds United,Wolverhampton Wanderers,1,1
+9,Premier League,Southampton vs Burnley,10/23/2021,Southampton,Burnley,2,2
+9,Premier League,Brighton & Hove Albion vs Manchester City,10/23/2021,Brighton & Hove Albion,Manchester City,1,4
+9,Premier League,Brentford vs Leicester City,10/24/2021,Brentford,Leicester City,1,2
+9,Premier League,West Ham United vs Tottenham Hotspur,10/24/2021,West Ham United,Tottenham Hotspur,1,0
+9,Premier League,Manchester United vs Liverpool,10/24/2021,Manchester United,Liverpool,0,5
+10,Premier League,Leicester City vs Arsenal,10/30/2021,Leicester City,Arsenal,0,2
+10,Premier League,Burnley vs Brentford,10/30/2021,Burnley,Brentford,3,1
+10,Premier League,Liverpool vs Brighton & Hove Albion,10/30/2021,Liverpool,Brighton & Hove Albion,2,2
+10,Premier League,Manchester City vs Crystal Palace,10/30/2021,Manchester City,Crystal Palace,0,2
+10,Premier League,Newcastle United vs Chelsea,10/30/2021,Newcastle United,Chelsea,0,3
+10,Premier League,Watford vs Southampton,10/30/2021,Watford,Southampton,0,1
+10,Premier League,Tottenham Hotspur vs Manchester United,10/30/2021,Tottenham Hotspur,Manchester United,0,3
+10,Premier League,Norwich City vs Leeds United,10/31/2021,Norwich City,Leeds United,1,2
+10,Premier League,Aston Villa vs West Ham United,10/31/2021,Aston Villa,West Ham United,1,4
+10,Premier League,Wolverhampton Wanderers vs Everton,11/1/2021,Wolverhampton Wanderers,Everton,2,1
+11,Premier League,Southampton vs Aston Villa,11/5/2021,Southampton,Aston Villa,1,0
+11,Premier League,Manchester United vs Manchester City,11/6/2021,Manchester United,Manchester City,0,2
+11,Premier League,Brentford vs Norwich City,11/6/2021,Brentford,Norwich City,1,2
+11,Premier League,Chelsea vs Burnley,11/6/2021,Chelsea,Burnley,1,1
+11,Premier League,Crystal Palace vs Wolverhampton Wanderers,11/6/2021,Crystal Palace,Wolverhampton Wanderers,2,0
+11,Premier League,Brighton & Hove Albion vs Newcastle United,11/6/2021,Brighton & Hove Albion,Newcastle United,1,1
+11,Premier League,Arsenal vs Watford,11/7/2021,Arsenal,Watford,1,0
+11,Premier League,Everton vs Tottenham Hotspur,11/7/2021,Everton,Tottenham Hotspur,0,0
+11,Premier League,Leeds United vs Leicester City,11/7/2021,Leeds United,Leicester City,1,1
+11,Premier League,West Ham United vs Liverpool,11/7/2021,West Ham United,Liverpool,3,2
+12,Premier League,Leicester City vs Chelsea,11/20/2021,Leicester City,Chelsea,0,3
+12,Premier League,Aston Villa vs Brighton & Hove Albion,11/20/2021,Aston Villa,Brighton & Hove Albion,2,0
+12,Premier League,Burnley vs Crystal Palace,11/20/2021,Burnley,Crystal Palace,3,3
+12,Premier League,Newcastle United vs Brentford,11/20/2021,Newcastle United,Brentford,3,3
+12,Premier League,Norwich City vs Southampton,11/20/2021,Norwich City,Southampton,2,1
+12,Premier League,Watford vs Manchester United,11/20/2021,Watford,Manchester United,4,1
+12,Premier League,Wolverhampton Wanderers vs West Ham United,11/20/2021,Wolverhampton Wanderers,West Ham United,1,0
+12,Premier League,Liverpool vs Arsenal,11/20/2021,Liverpool,Arsenal,4,0
+12,Premier League,Manchester City vs Everton,11/21/2021,Manchester City,Everton,3,0
+12,Premier League,Tottenham Hotspur vs Leeds United,11/21/2021,Tottenham Hotspur,Leeds United,2,1
+13,Premier League,Arsenal vs Newcastle United,11/27/2021,Arsenal,Newcastle United,2,0
+13,Premier League,Crystal Palace vs Aston Villa,11/27/2021,Crystal Palace,Aston Villa,1,2
+13,Premier League,Liverpool vs Southampton,11/27/2021,Liverpool,Southampton,4,0
+13,Premier League,Norwich City vs Wolverhampton Wanderers,11/27/2021,Norwich City,Wolverhampton Wanderers,0,0
+13,Premier League,Brighton & Hove Albion vs Leeds United,11/27/2021,Brighton & Hove Albion,Leeds United,0,0
+13,Premier League,Brentford vs Everton,11/28/2021,Brentford,Everton,1,0
+13,Premier League,Burnley vs Tottenham Hotspur,11/28/2021,Burnley,Tottenham Hotspur,0,1
+13,Premier League,Leicester City vs Watford,11/28/2021,Leicester City,Watford,4,2
+13,Premier League,Manchester City vs West Ham United,11/28/2021,Manchester City,West Ham United,2,1
+13,Premier League,Chelsea vs Manchester United,11/28/2021,Chelsea,Manchester United,1,1
+14,Premier League,Newcastle United vs Norwich City,11/30/2021,Newcastle United,Norwich City,1,1
+14,Premier League,Leeds United vs Crystal Palace,11/30/2021,Leeds United,Crystal Palace,1,0
+14,Premier League,Southampton vs Leicester City,12/1/2021,Southampton,Leicester City,2,2
+14,Premier League,Wolverhampton Wanderers vs Burnley,12/1/2021,Wolverhampton Wanderers,Burnley,0,0
+14,Premier League,Watford vs Chelsea,12/1/2021,Watford,Chelsea,1,2
+14,Premier League,West Ham United vs Brighton & Hove Albion,12/1/2021,West Ham United,Brighton & Hove Albion,1,1
+14,Premier League,Aston Villa vs Manchester City,12/1/2021,Aston Villa,Manchester City,1,2
+14,Premier League,Everton vs Liverpool,12/1/2021,Everton,Liverpool,1,4
+14,Premier League,Tottenham Hotspur vs Brentford,12/2/2021,Tottenham Hotspur,Brentford,2,0
+14,Premier League,Manchester United vs Arsenal,12/2/2021,Manchester United,Arsenal,3,2
+15,Premier League,West Ham United vs Chelsea,12/4/2021,West Ham United,Chelsea,3,2
+15,Premier League,Newcastle United vs Burnley,12/4/2021,Newcastle United,Burnley,1,0
+15,Premier League,Southampton vs Brighton & Hove Albion,12/4/2021,Southampton,Brighton & Hove Albion,1,1
+15,Premier League,Wolverhampton Wanderers vs Liverpool,12/4/2021,Wolverhampton Wanderers,Liverpool,0,1
+15,Premier League,Watford vs Manchester City,12/4/2021,Watford,Manchester City,1,3
+15,Premier League,Leeds United vs Brentford,12/5/2021,Leeds United,Brentford,2,2
+15,Premier League,Manchester United vs Crystal Palace,12/5/2021,Manchester United,Crystal Palace,1,0
+15,Premier League,Tottenham Hotspur vs Norwich City,12/5/2021,Tottenham Hotspur,Norwich City,3,0
+15,Premier League,Aston Villa vs Leicester City,12/5/2021,Aston Villa,Leicester City,2,1
+15,Premier League,Everton vs Arsenal,12/6/2021,Everton,Arsenal,2,1
+16,Premier League,Brentford vs Watford,12/10/2021,Brentford,Watford,2,1
+16,Premier League,Manchester City vs Wolverhampton Wanderers,12/11/2021,Manchester City,Wolverhampton Wanderers,1,0
+16,Premier League,Arsenal vs Southampton,12/11/2021,Arsenal,Southampton,3,0
+16,Premier League,Chelsea vs Leeds United,12/11/2021,Chelsea,Leeds United,3,2
+16,Premier League,Liverpool vs Aston Villa,12/11/2021,Liverpool,Aston Villa,1,0
+16,Premier League,Norwich City vs Manchester United,12/11/2021,Norwich City,Manchester United,0,1
+16,Premier League,Brighton & Hove Albion vs Tottenham Hotspur,02/12/2022,Brighton & Hove Albion,Tottenham Hotspur,0,2
+16,Premier League,Burnley vs West Ham United,12/12/2021,Burnley,West Ham United,0,0
+16,Premier League,Leicester City vs Newcastle United,12/12/2021,Leicester City,Newcastle United,4,0
+16,Premier League,Crystal Palace vs Everton,12/12/2021,Crystal Palace,Everton,3,1
+17,Premier League,Norwich City vs Aston Villa,12/14/2021,Norwich City,Aston Villa,0,2
+17,Premier League,Manchester City vs Leeds United,12/14/2021,Manchester City,Leeds United,7,0
+17,Premier League,Brighton & Hove Albion vs Wolverhampton Wanderers,12/15/2021,Brighton & Hove Albion,Wolverhampton Wanderers,0,1
+17,Premier League,Burnley vs Watford,12/15/2021,Burnley,Watford,1,1
+17,Premier League,Crystal Palace vs Southampton,12/15/2021,Crystal Palace,Southampton,2,2
+17,Premier League,Arsenal vs West Ham United,12/15/2021,Arsenal,West Ham United,2,0
+17,Premier League,Leicester City vs Tottenham Hotspur,12/16/2021,Leicester City,Tottenham Hotspur,2,3
+17,Premier League,Chelsea vs Everton,12/16/2021,Chelsea,Everton,1,1
+17,Premier League,Liverpool vs Newcastle United,12/16/2021,Liverpool,Newcastle United,3,1
+17,Premier League,Brentford vs Manchester United,12/16/2021,Brentford,Manchester United,1,3
+18,Premier League,Leeds United vs Arsenal FC,12/18/2021 17:30,Leeds United,Arsenal FC,1,4
+18,Premier League,Newcastle United vs Manchester City,12/19/2021 14:00,Newcastle United,Manchester City,0,4
+18,Premier League,Wolverhampton Wanderers vs Chelsea FC,12/19/2021 14:00,Wolverhampton Wanderers,Chelsea FC,0,0
+18,Premier League,Tottenham Hotspur vs Liverpool FC,12/19/2021 16:30,Tottenham Hotspur,Liverpool FC,2,2
+18,Premier League,Southampton FC vs Brentford FC,01/11/2022 19:45,Southampton FC,Brentford FC,4,1
+18,Premier League,West Ham United vs Norwich City,01/12/2022 19:45,West Ham United,Norwich City,2,0
+18,Premier League,Manchester United vs Brighton & Hove Albion,02/15/2022 20:15,Manchester United,Brighton & Hove Albion,2,0
+18,Premier League,Watford FC vs Crystal Palace,02/23/2022 19:30,Watford FC,Crystal Palace,1,4
+18,Premier League,Everton FC vs Leicester City,04/20/2022 19:45,Everton FC,Leicester City,1,1
+18,Premier League,Aston Villa vs Burnley FC,04/20/2022 19:45,Aston Villa,Burnley FC,1,1
+19,Premier League,Liverpool vs Leeds United,12/26/2021,Liverpool,Leeds United,6,0
+19,Premier League,Wolverhampton Wanderers vs Watford,12/26/2021,Wolverhampton Wanderers,Watford,1,0
+19,Premier League,Burnley vs Everton,12/26/2021,Burnley,Everton,3,1
+19,Premier League,Manchester City vs Leicester City,12/26/2021,Manchester City,Leicester City,6,3
+19,Premier League,Norwich City vs Arsenal,12/26/2021,Norwich City,Arsenal,0,5
+19,Premier League,Tottenham Hotspur vs Crystal Palace,12/26/2021,Tottenham Hotspur,Crystal Palace,3,0
+19,Premier League,West Ham United vs Southampton,12/26/2021,West Ham United,Southampton,2,3
+19,Premier League,Aston Villa vs Chelsea,12/26/2021,Aston Villa,Chelsea,1,3
+19,Premier League,Brighton & Hove Albion vs Brentford,12/26/2021,Brighton & Hove Albion,Brentford,2,0
+19,Premier League,Newcastle United vs Manchester United,12/27/2021,Newcastle United,Manchester United,1,1
+20,Premier League,Southampton vs Newcastle United,12/30/2021,Southampton,Newcastle United,2,0
+20,Premier League,Watford vs West Ham United,12/28/2021,Watford,West Ham United,1,4
+20,Premier League,Crystal Palace vs Norwich City,12/28/2021,Crystal Palace,Norwich City,3,0
+20,Premier League,Leicester City vs Liverpool,12/28/2021,Leicester City,Liverpool,1,0
+20,Premier League,Tottenham Hotspur vs Southampton,12/29/2021,Tottenham Hotspur,Southampton,1,1
+20,Premier League,Chelsea vs Brighton & Hove Albion,12/29/2021,Chelsea,Brighton & Hove Albion,1,1
+20,Premier League,Brentford vs Manchester City,12/29/2021,Brentford,Manchester City,0,1
+20,Premier League,Manchester United vs Burnley,12/30/2021,Manchester United,Burnley,3,1
+20,Premier League,Everton vs Newcastle United,12/30/2021,Everton,Newcastle United,1,1
+20,Premier League,Leeds United vs Aston Villa,12/28/2021,Leeds United,Aston Villa,2,3
+21,Premier League,Arsenal vs Manchester City,1/1/2022,Arsenal,Manchester City,1,2
+21,Premier League,Watford vs Tottenham Hotspur,1/1/2022,Watford,Tottenham Hotspur,0,1
+21,Premier League,Crystal Palace vs West Ham United,1/1/2022,Crystal Palace,West Ham United,2,3
+21,Premier League,Brentford vs Aston Villa,1/2/2022,Brentford,Aston Villa,2,1
+21,Premier League,Everton vs Brighton & Hove Albion,1/2/2022,Everton,Brighton & Hove Albion,2,3
+21,Premier League,Leeds United vs Burnley,1/2/2022,Leeds United,Burnley,3,1
+21,Premier League,Southampton vs Newcastle United,01/02/2022,Southampton,Newcastle United,1,1
+21,Premier League,Manchester United vs Wolverhampton Wanderers,1/3/2022,Manchester United,Wolverhampton Wanderers,0,1
+21,Premier League,Leicester City vs Norwich City,01/01/2022,Leicester City,Norwich City,4,0
+21,Premier League,Chelsea vs Liverpool,1/2/2022,Chelsea,Liverpool,2,2
+22,Premier League,Brighton & Hove Albion vs Crystal Palace,1/14/2022,Brighton & Hove Albion,Crystal Palace,1,1
+22,Premier League,Manchester City vs Chelsea,1/15/2022,Manchester City,Chelsea,1,0
+22,Premier League,Burnley vs Leicester City,01/15/2022,Burnley,Leicester City,2,0
+22,Premier League,Newcastle United vs Watford,1/15/2022,Newcastle United,Watford,1,1
+22,Premier League,Norwich City vs Everton,1/15/2022,Norwich City,Everton,2,1
+22,Premier League,Wolverhampton Wanderers vs Southampton,1/15/2022,Wolverhampton Wanderers,Southampton,3,1
+22,Premier League,Aston Villa vs Manchester United,1/15/2022,Aston Villa,Manchester United,2,2
+22,Premier League,West Ham United vs Leeds United,1/16/2022,West Ham United,Leeds United,2,3
+22,Premier League,Tottenham Hotspur vs Arsenal,01/16/2022,Tottenham Hotspur,Arsenal,0,3
+22,Premier League,Liverpool vs Brentford,1/16/2022,Liverpool,Brentford,3,0
+23,Premier League,Watford vs Norwich City,1/21/2022,Watford,Norwich City,0,3
+23,Premier League,Everton vs Aston Villa,1/22/2022,Everton,Aston Villa,0,1
+23,Premier League,Leeds United vs Newcastle United,1/22/2022,Leeds United,Newcastle United,0,1
+23,Premier League,Manchester United vs West Ham United,1/22/2022,Manchester United,West Ham United,1,0
+23,Premier League,Brentford vs Wolverhampton Wanderers,1/22/2022,Brentford,Wolverhampton Wanderers,1,2
+23,Premier League,Southampton vs Manchester City,1/22/2022,Southampton,Manchester City,1,1
+23,Premier League,Arsenal vs Burnley,1/23/2022,Arsenal,Burnley,0,0
+23,Premier League,Crystal Palace vs Liverpool,1/23/2022,Crystal Palace,Liverpool,1,3
+23,Premier League,Leicester City vs Brighton & Hove Albion,1/23/2022,Leicester City,Brighton & Hove Albion,1,1
+23,Premier League,Chelsea vs Tottenham Hotspur,1/23/2022,Chelsea,Tottenham Hotspur,2,0
+24,Premier League,Newcastle United vs Everton,2/8/2022,Newcastle United,Everton,3,1
+24,Premier League,West Ham United vs Watford,2/8/2022,West Ham United,Watford,1,0
+24,Premier League,Burnley vs Manchester United,2/8/2022,Burnley,Manchester United,1,1
+24,Premier League,Wolverhampton Wanderers vs Arsenal,2/10/2022,Wolverhampton Wanderers,Arsenal,0,1
+24,Premier League,Tottenham Hotspur vs Southampton,2/9/2022,Tottenham Hotspur,Southampton,2,3
+24,Premier League,Manchester City vs Brentford,2/9/2022,Manchester City,Brentford,2,0
+24,Premier League,Norwich City vs Crystal Palace,2/9/2022,Norwich City,Crystal Palace,1,1
+24,Premier League,Aston Villa vs Leeds United,2/9/2022,Aston Villa,Leeds United,3,3
+24,Premier League,Liverpool vs Leicester City,2/10/2022,Liverpool,Leicester City,2,0
+24,Premier League,Brighton & Hove Albion vs Tottenham Hotspur,02/12/2022,Brighton & Hove Albion,Tottenham Hotspur,0,2
+25,Premier League,Manchester United vs Southampton,2/12/2022,Manchester United,Southampton,1,1
+25,Premier League,Everton vs Leeds United,2/12/2022,Everton,Leeds United,3,0
+25,Premier League,Watford vs Brighton & Hove Albion,2/12/2022,Watford,Brighton & Hove Albion,0,2
+25,Premier League,Brentford vs Crystal Palace,2/12/2022,Brentford,Crystal Palace,0,0
+25,Premier League,Norwich City vs Manchester City,2/12/2022,Norwich City,Manchester City,0,4
+25,Premier League,Tottenham Hotspur vs Wolverhampton Wanderers,2/13/2022,Tottenham Hotspur,Wolverhampton Wanderers,0,2
+25,Premier League,Newcastle United vs Aston Villa,2/13/2022,Newcastle United,Aston Villa,1,0
+25,Premier League,Burnley vs Liverpool,2/13/2022,Burnley,Liverpool,0,1
+25,Premier League,Leicester City vs West Ham United,2/13/2022,Leicester City,West Ham United,2,2
+25,Premier League,Chelsea vs Arsenal,02/12/2022,Chelsea,Arsenal,2,0
+26,Premier League,West Ham United vs Newcastle United,2/19/2022,West Ham United,Newcastle United,1,1
+26,Premier League,Arsenal vs Brentford,2/19/2022,Arsenal,Brentford,2,1
+26,Premier League,Aston Villa vs Watford,2/19/2022,Aston Villa,Watford,0,1
+26,Premier League,Brighton & Hove Albion vs Burnley,2/19/2022,Brighton & Hove Albion,Burnley,0,3
+26,Premier League,Crystal Palace vs Chelsea,2/19/2022,Crystal Palace,Chelsea,0,1
+26,Premier League,Liverpool vs Norwich City,2/19/2022,Liverpool,Norwich City,3,1
+26,Premier League,Southampton vs Everton,2/19/2022,Southampton,Everton,2,0
+26,Premier League,Manchester City vs Tottenham Hotspur,2/19/2022,Manchester City,Tottenham Hotspur,2,3
+26,Premier League,Leeds United vs Manchester United,2/20/2022,Leeds United,Manchester United,2,4
+26,Premier League,Wolverhampton Wanderers vs Leicester City,2/20/2022,Wolverhampton Wanderers,Leicester City,2,1
+27,Premier League,Southampton vs Norwich City,2/25/2022,Southampton,Norwich City,2,0
+27,Premier League,Leeds United vs Tottenham Hotspur,2/26/2022,Leeds United,Tottenham Hotspur,0,4
+27,Premier League,Brentford vs Newcastle United,2/26/2022,Brentford,Newcastle United,0,2
+27,Premier League,Brighton & Hove Albion vs Aston Villa,2/26/2022,Brighton & Hove Albion,Aston Villa,0,2
+27,Premier League,Crystal Palace vs Burnley,2/26/2022,Crystal Palace,Burnley,1,1
+27,Premier League,Manchester United vs Watford,2/26/2022,Manchester United,Watford,0,0
+27,Premier League,Everton vs Manchester City,2/26/2022,Everton,Manchester City,0,1
+27,Premier League,West Ham United vs Wolverhampton Wanderers,2/27/2022,West Ham United,Wolverhampton Wanderers,1,0
+27,Premier League,Liverpool vs Arsenal,02/27/2022,Liverpool,Arsenal,2,0
+27,Premier League,Chelsea vs Leicester City,02/26/2022,Chelsea,Leicester City,3,1
+28,Premier League,Burnley vs Chelsea,3/5/2022,Burnley,Chelsea,0,4
+28,Premier League,Leeds United vs Norwich City,3/5/2022,Leeds United,Norwich City,2,1
+28,Premier League,Tottenham Hotspur vs Everton,3/5/2022,Tottenham Hotspur,Everton,5,0
+28,Premier League,Manchester United vs Manchester City,3/6/2022,Manchester United,Manchester City,1,4
+28,Premier League,Aston Villa vs Southampton,3/6/2022,Aston Villa,Southampton,4,0
+28,Premier League,Crystal Palace vs Wolves,3/6/2022,Crystal Palace,Wolverhampton Wanderers,2,0
+28,Premier League,West Ham United vs Liverpool,3/6/2022,West Ham United,Liverpool,1,1
+28,Premier League,Brentford vs Leicester City,3/5/2022,Brentford,Leicester City,1,2
+28,Premier League,Brighton & Hove Albion vs Arsenal,3/5/2022,Brighton & Hove Albion,Arsenal,0,2
+28,Premier League,Watford vs Newcastle United,3/6/2022,Watford,Newcastle United,1,2
+29,Premier League,Arsenal vs Watford,3/12/2022,Arsenal,Watford,3,1
+29,Premier League,Chelsea vs Newcastle United,3/13/2022,Chelsea,Newcastle United,1,0
+29,Premier League,Liverpool vs Brighton & Hove Albion,3/13/2022,Liverpool,Brighton & Hove Albion,2,0
+29,Premier League,Manchester City vs Crystal Palace,3/13/2022,Manchester City,Crystal Palace,1,0
+29,Premier League,Southampton vs Leeds United,3/13/2022,Southampton,Leeds United,1,2
+29,Premier League,Wolverhampton Wanderers vs Everton,3/13/2022,Wolverhampton Wanderers,Everton,1,0
+29,Premier League,Tottenham Hotspur vs West Ham United,3/13/2022,Tottenham Hotspur,West Ham United,3,1
+29,Premier League,Leicester City vs Brentford,3/12/2022,Leicester City,Brentford,2,0
+29,Premier League,Aston Villa vs Burnley,3/12/2022,Aston Villa,Burnley,3,1
+29,Premier League,Watford vs Norwich City,3/13/2022,Watford,Norwich City,0,1
+30,Premier League,Everton vs Wolverhampton Wanderers,3/19/2022,Everton,Wolverhampton Wanderers,0,1
+30,Premier League,Aston Villa vs Arsenal,3/19/2022,Aston Villa,Arsenal,1,0
+30,Premier League,Manchester City vs Watford,3/19/2022,Manchester City,Watford,4,0
+30,Premier League,Leeds United vs Leicester City,3/19/2022,Leeds United,Leicester City,1,1
+30,Premier League,Burnley vs Brentford,3/19/2022,Burnley,Brentford,1,2
+30,Premier League,Chelsea vs Newcastle United,3/19/2022,Chelsea,Newcastle United,1,0
+30,Premier League,West Ham United vs Tottenham Hotspur,3/20/2022,West Ham United,Tottenham Hotspur,1,3
+30,Premier League,Crystal Palace vs Manchester United,3/20/2022,Crystal Palace,Manchester United,0,1
+30,Premier League,Southampton vs Brighton & Hove Albion,3/20/2022,Southampton,Brighton & Hove Albion,2,0
+30,Premier League,Liverpool vs Watford,3/20/2022,Liverpool,Watford,2,0
+31,Premier League,Aston Villa vs Wolves,4/2/2022,Aston Villa,Wolves,2,1
+31,Premier League,Brentford vs Leicester,4/2/2022,Brentford,Leicester City,1,2
+31,Premier League,Burnley vs Manchester City,4/2/2022,Burnley,Manchester City,0,2
+31,Premier League,Newcastle United vs Wolverhampton Wanderers,4/2/2022,Newcastle United,Wolves,1,1
+31,Premier League,Chelsea vs Brentford,4/2/2022,Chelsea,Brentford,2,1
+31,Premier League,West Ham United vs Manchester United,4/2/2022,West Ham United,Manchester United,1,0
+31,Premier League,Leeds United vs Southampton,4/2/2022,Leeds United,Southampton,2,1
+31,Premier League,Liverpool vs Watford,4/2/2022,Liverpool,Watford,2,0
+31,Premier League,Tottenham Hotspur vs Norwich City,4/2/2022,Tottenham Hotspur,Norwich City,3,1
+31,Premier League,Crystal Palace vs Brighton & Hove Albion,4/2/2022,Crystal Palace,Brighton & Hove Albion,1,1
+32,Premier League,Leicester City vs Tottenham Hotspur,4/9/2022,Leicester City,Tottenham Hotspur,2,1
+32,Premier League,West Ham United vs Burnley,4/9/2022,West Ham United,Burnley,1,1
+32,Premier League,Manchester United vs Norwich City,4/9/2022,Manchester United,Norwich City,3,0
+32,Premier League,Liverpool vs Watford,4/9/2022,Liverpool,Watford,2,0
+32,Premier League,Tottenham Hotspur vs Everton,4/9/2022,Tottenham Hotspur,Everton,5,0
+32,Premier League,Chelsea vs Newcastle United,4/9/2022,Chelsea,Newcastle United,1,0
+32,Premier League,Crystal Palace vs Southampton,4/9/2022,Crystal Palace,Southampton,1,0
+32,Premier League,Brentford vs Leeds United,4/9/2022,Brentford,Leeds United,3,1
+32,Premier League,Aston Villa vs Leicester City,4/9/2022,Aston Villa,Leicester City,0,2
+32,Premier League,Wolverhampton Wanderers vs Watford,4/9/2022,Wolves,Watford,1,0
+33,Premier League,Southampton vs Chelsea,4/16/2022,Southampton,Chelsea,1,3
+33,Premier League,Brentford vs Norwich City,4/16/2022,Brentford,Norwich City,1,1
+33,Premier League,Manchester United vs Leeds United,4/16/2022,Manchester United,Leeds United,4,2
+33,Premier League,Liverpool vs Everton,4/16/2022,Liverpool,Everton,4,0
+33,Premier League,Crystal Palace vs Leicester City,4/16/2022,Crystal Palace,Leicester City,1,1
+33,Premier League,Tottenham Hotspur vs Aston Villa,4/16/2022,Tottenham Hotspur,Aston Villa,4,0
+33,Premier League,Arsenal vs Brighton & Hove Albion,4/16/2022,Arsenal,Brighton & Hove Albion,2,0
+33,Premier League,Leeds United vs Burnley,4/16/2022,Leeds United,Burnley,1,0
+33,Premier League,Manchester City vs Wolverhampton Wanderers,4/16/2022,Manchester City,Wolves,5,1
+33,Premier League,West Ham United vs Watford,4/16/2022,West Ham United,Watford,1,0
+34,Premier League,Tottenham Hotspur vs Brighton & Hove Albion,4/23/2022,Tottenham Hotspur,Brighton & Hove Albion,4,0
+34,Premier League,Leicester City vs Aston Villa,4/23/2022,Leicester City,Aston Villa,0,0
+34,Premier League,Manchester United vs Chelsea,4/23/2022,Manchester United,Chelsea,1,1
+34,Premier League,Southampton vs Crystal Palace,4/23/2022,Southampton,Crystal Palace,2,0
+34,Premier League,Arsenal vs Manchester United,4/23/2022,Arsenal,Manchester United,3,1
+34,Premier League,Leeds United vs Arsenal,4/23/2022,Leeds United,Arsenal,1,2
+34,Premier League,Everton vs Burnley,4/23/2022,Everton,Burnley,2,1
+34,Premier League,Watford vs Brentford,4/23/2022,Watford,Brentford,1,2
+34,Premier League,Newcastle United vs Crystal Palace,4/23/2022,Newcastle United,Crystal Palace,1,0
+34,Premier League,West Ham United vs Leicester City,4/23/2022,West Ham United,Leicester City,2,2
+35,Premier League,Southampton vs Arsenal,4/30/2022,Southampton,Arsenal,1,0
+35,Premier League,Leicester City vs Norwich City,4/30/2022,Leicester City,Norwich City,2,1
+35,Premier League,Brentford vs Everton,4/30/2022,Brentford,Everton,3,0
+35,Premier League,Crystal Palace vs Manchester United,4/30/2022,Crystal Palace,Manchester United,1,0
+35,Premier League,Tottenham Hotspur vs Leicester City,4/30/2022,Tottenham Hotspur,Leicester City,3,1
+35,Premier League,Watford vs Manchester City,4/30/2022,Watford,Manchester City,0,5
+35,Premier League,Chelsea vs West Ham United,4/30/2022,Chelsea,West Ham United,2,1
+35,Premier League,Burnley vs Tottenham Hotspur,4/30/2022,Burnley,Tottenham Hotspur,0,2
+35,Premier League,Arsenal vs Newcastle United,4/30/2022,Arsenal,Newcastle United,2,0
+35,Premier League,Everton vs Wolves,4/30/2022,Everton,Wolves,1,2
+36,Premier League,Chelsea vs Leeds United,5/7/2022,Chelsea,Leeds United,3,0
+36,Premier League,Arsenal vs Brighton & Hove Albion,5/7/2022,Arsenal,Brighton & Hove Albion,2,0
+36,Premier League,Watford vs Burnley,5/7/2022,Watford,Burnley,1,1
+36,Premier League,Wolverhampton Wanderers vs Crystal Palace,5/7/2022,Wolves,Crystal Palace,1,1
+36,Premier League,Tottenham Hotspur vs Leicester City,5/7/2022,Tottenham Hotspur,Leicester City,3,1
+36,Premier League,West Ham United vs Manchester City,5/7/2022,West Ham United,Manchester City,2,3
+36,Premier League,Southampton vs Burnley,5/7/2022,Southampton,Burnley,2,0
+36,Premier League,Everton vs Brentford,5/7/2022,Everton,Brentford,1,2
+36,Premier League,Leeds United vs Chelsea,5/7/2022,Leeds United,Chelsea,0,3
+36,Premier League,Newcastle United vs Liverpool,5/7/2022,Newcastle United,Liverpool,0,1
+37,Premier League,Aston Villa vs Crystal Palace,5/15/2022,Aston Villa,Crystal Palace,1,1
+37,Premier League,Southampton vs Liverpool,5/15/2022,Southampton,Liverpool,1,2
+37,Premier League,Everton vs Brentford,5/15/2022,Everton,Brentford,3,2
+37,Premier League,Leeds United vs Brighton & Hove Albion,5/15/2022,Leeds United,Brighton & Hove Albion,1,1
+37,Premier League,Manchester United vs Chelsea,5/15/2022,Manchester United,Chelsea,1,1
+37,Premier League,Newcastle United vs Arsenal,5/15/2022,Newcastle United,Arsenal,2,0
+37,Premier League,Watford vs Leicester City,5/15/2022,Watford,Leicester City,0,1
+37,Premier League,Tottenham Hotspur vs Burnley,5/15/2022,Tottenham Hotspur,Burnley,1,0
+37,Premier League,Wolverhampton Wanderers vs Norwich City,5/15/2022,Wolves,Norwich City,1,0
+37,Premier League,West Ham United vs Manchester City,5/15/2022,West Ham United,Manchester City,2,2
+38,Premier League,Burnley vs Newcastle United,5/22/2022,Burnley,Newcastle United,1,2
+38,Premier League,Chelsea vs Watford,5/22/2022,Chelsea,Watford,2,1
+38,Premier League,Manchester City vs Aston Villa,5/22/2022,Manchester City,Aston Villa,3,2
+38,Premier League,Crystal Palace vs Manchester United,5/22/2022,Crystal Palace,Manchester United,1,0
+38,Premier League,Leicester City vs Southampton,5/22/2022,Leicester City,Southampton,4,1
+38,Premier League,Liverpool vs Wolverhampton Wanderers,5/22/2022,Liverpool,Wolves,3,1
+38,Premier League,Arsenal vs Everton,5/22/2022,Arsenal,Everton,5,1
+38,Premier League,Brentford vs Leeds United,5/22/2022,Brentford,Leeds United,2,1
+38,Premier League,Tottenham Hotspur vs Norwich City,5/22/2022,Tottenham Hotspur,Norwich City,5,0
+38,Premier League,Brighton & Hove Albion vs West Ham United,5/22/2022,Brighton & Hove Albion,West Ham United,3,1

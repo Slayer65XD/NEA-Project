@@ -81,6 +81,17 @@
             <span class="badge bg-warning">Draw</span>
         </p>
 
+        <!-- Prediction Table -->
+        <table>
+            <h4>Team &emsp;&emsp; Points</h4>
+            {% for team, points in table.items() %}
+            <tr>
+                <th>{{ team }}</th>
+                <td>{{ points }}</td>
+            </tr>
+            {% endfor %}
+        </table>
+
         <!-- Prediction Matches List -->
         {% for matchday in matchdays %}
             <div class="match-item">
@@ -89,7 +100,7 @@
                     {% for match in predictions[matchday] %}
                         <li>
                             {{ match.homeTeam }} vs {{ match.awayTeam }} - 
-                            <span class="badge {% if match.result == 'Home Win' %}bg-success{% elif match.result == 'Away Win' %}bg-danger{% else %}bg-warning{% endif %}">
+                            <span class="badge {% if match.result == 'Home Win' %}bg-success{% elif match.result == 'Away Win' %}bg-danger{% elif match.result == 'Draw' %}bg-warning{% endif %}">
                                 {{ match.result | capitalize }}
                             </span>
                         </li>
