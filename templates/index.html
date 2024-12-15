@@ -96,7 +96,7 @@
                 <tr>
                     <th>
                         <img src="{{teams[name].crest}}" height="18px">
-                        {{ name }}
+                        <a href="predictions?team={{ name }}">{{ name }}</a>
                     </th>
                     <td style="text-align: right;">{{ team.played }}</td>
                     <td style="text-align: right;">{{ team.points }}</td>
@@ -117,7 +117,7 @@
                 <tr>
                     <th>
                         <img src="{{teams[name].crest}}" height="18px">
-                        <a href="predictions?team={{ name }}">{{ name }}</a>
+                        {{ name }}
                     </th>
                     <td style="text-align: right;">{{ team.played }}</td>
                     <td style="text-align: right;">{{ team.points }}</td>
