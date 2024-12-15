@@ -89,14 +89,17 @@
                 </tr>
                 <tr>
                     <th>Team</th>
+                    <th>Played</th>
                     <th>Points</th>
                 </tr>
-                {% for name, points in predictionsTable.items() %}
+                {% for name, team in predictionsTable.items() %}
                 <tr>
                     <th>
+                        <img src="{{teams[name].crest}}" height="18px">
                         {{ name }}
                     </th>
-                    <td style="text-align: right;">{{ points }}</td>
+                    <td style="text-align: right;">{{ team.played }}</td>
+                    <td style="text-align: right;">{{ team.points }}</td>
                 </tr>
                 {% endfor %}
             </table>
@@ -107,14 +110,16 @@
                 </tr>
                 <tr>
                     <th>Team</th>
+                    <th>Played</th>
                     <th>Points</th>
                 </tr>
                 {% for name, team in table.items() %}
                 <tr>
                     <th>
-                        <img src="{{team.data.crest}}" height="18px">
+                        <img src="{{teams[name].crest}}" height="18px">
                         {{ name }}
                     </th>
+                    <td style="text-align: right;">{{ team.played }}</td>
                     <td style="text-align: right;">{{ team.points }}</td>
                 </tr>
                 {% endfor %}
@@ -127,14 +132,14 @@
             <div class="match-item">
                 <h4>Matchday {{ matchday }}</h4>
                 <ul>
-                    {% for match in results[matchday] %}
+                    {% for match in predictions[matchday] %}
                         <li>
                             {{ match.homeTeam }} vs {{ match.awayTeam }} - 
-                            <span class="badge {% if match.prediction == 'Home Win' %}bg-success{% elif match.prediction == 'Away Win' %}bg-danger{% else %}bg-warning{% endif %}">
-                                Predicted: {{ match.prediction | capitalize }}
+                            <span class="badge {% if match.result == 'Home Win' %}bg-success{% elif match.result == 'Away Win' %}bg-danger{%else %}bg-warning{% endif %}">
+                                Predicted: {{ match.result | capitalize }}
                             </span>
-                            <span class="badge {% if match.result == 'Home Win' %}bg-success{% elif match.result == 'Away Win' %}bg-danger{% else %}bg-warning{% endif %}">
-                                Actual: {{ match.result | capitalize }}
+                            <span class="badge {% if match.actual == 'Home Win' %}bg-success{% elif match.actual == 'Away Win' %}bg-danger{% elif match.actual == 'Draw' %}bg-warning{%else %}bg-secondary{% endif %}">
+                                Actual: {{ match.actual | capitalize }}
                             </span>
                         </li>
                     {% endfor %}
