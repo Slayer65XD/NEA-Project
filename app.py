@@ -1,9 +1,10 @@
-from flask import Flask, render_template
+from flask import Flask, render_template, request
 import requests
 import csv
 import os
 import json
 from datetime import datetime
+import sqlite3
 
 app = Flask(__name__)
 
@@ -149,6 +150,29 @@ def homePage():
     # Render results template with upcoming fixtures
     matchdays = sorted(results.keys())  # Sort matchdays in order
     return render_template('index.html', predictions=predictions, matchdays=matchdays, table=table, predictionsTable=predictionsTable, complete=complete, correct=correct, accuracy=accuracy, teams=teams)
+
+@app.route('/predictions')
+def predictions():
+
+    team = request.args.get("team")
+
+    connection = sqlite3.connect("football.db")
+    cursor = connection.cursor()
+    cursor.execute("""
+    SELECT * FROM predictions WHERE
+                   home_team = ? OR
+                   away_team = ?
+    """, (team, team))
+
+    predictions = cursor.fetchall()
+
+    resultOptions = {}
+    resultOptions[-1] = 'Away Win'
+    resultOptions[0] = 'Draw'
+    resultOptions[1] = 'Home Win'
+
+    return render_template('predictions.html', predictions=predictions, resultOptions=resultOptions)
+
 
 if __name__ == '__main__':
     app.run(debug=True)

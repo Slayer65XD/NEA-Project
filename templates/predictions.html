@@ -74,40 +74,20 @@
     <div class="container mt-4">
         <h1 class="text-center">Premier League 2024/25 Match Predictions</h1>
         
-        <!-- Key Section -->
-        <p class="text-center key">Key: 
-            <span class="badge bg-success">Home Win</span> 
-            <span class="badge bg-danger">Away Win</span> 
-            <span class="badge bg-warning">Draw</span>
-        </p>
-
-        <!-- Prediction Table -->
-        <table>
-            <h4>Team &emsp;&emsp; Points</h4>
-            {% for team, points in table.items() %}
-            <tr>
-                <th>{{ team }}</th>
-                <td>{{ points }}</td>
-            </tr>
-            {% endfor %}
-        </table>
-
         <!-- Prediction Matches List -->
-        {% for matchday in matchdays %}
             <div class="match-item">
-                <h4>Matchday {{ matchday }}</h4>
+                {% for match in predictions %}
+                <h4>Matchday {{ match[1] }}</h4>
                 <ul>
-                    {% for match in predictions[matchday] %}
                         <li>
-                            {{ match.homeTeam }} vs {{ match.awayTeam }} - 
-                            <span class="badge {% if match.result == 'Home Win' %}bg-success{% elif match.result == 'Away Win' %}bg-danger{% elif match.result == 'Draw' %}bg-warning{% endif %}">
-                                {{ match.result | capitalize }}
+                            {{match[2]}} vs {{match[3]}} - 
+                            <span class="badge {% if resultOptions[match[4]] == 'Home Win' %}bg-success{% elif resultOptions[match[4]] == 'Away Win' %}bg-danger{% elif resultOptions[match[4]] == 'Draw' %}bg-warning{% endif %}">
+                                {{ resultOptions[match[4]] | capitalize }}
                             </span>
                         </li>
-                    {% endfor %}
                 </ul>
+                {% endfor %}
             </div>
-        {% endfor %}
     </div>
 
     {% include 'footer.html' %}
