@@ -94,6 +94,7 @@
                 {% for name, points in predictionsTable.items() %}
                 <tr>
                     <th>
+                        <img src="{{teams[name].crest}}" height="18px">
                         {{ name }}
                     </th>
                     <td style="text-align: right;">{{ points }}</td>
@@ -107,14 +108,16 @@
                 </tr>
                 <tr>
                     <th>Team</th>
+                    <th>Played</th>
                     <th>Points</th>
                 </tr>
                 {% for name, team in table.items() %}
                 <tr>
                     <th>
-                        <img src="{{team.data.crest}}" height="18px">
+                        <img src="{{teams[name].crest}}" height="18px">
                         {{ name }}
                     </th>
+                    <td style="text-align: right;">{{ team.played }}</td>
                     <td style="text-align: right;">{{ team.points }}</td>
                 </tr>
                 {% endfor %}
